@@ -1,394 +1,2217 @@
-<?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2023-03-08 09:55">
+<yml_catalog date="2024-10-02 16:57">
 <shop>
-<name>TeraFlops Store</name>
-<url>https://tera-flops.com.ua/</url>
+<name>Squadrone</name>
+<company>Squadrone</company>
+<url>https://squadrone.in.ua/</url>
 <currencies>
-<currency id="USD" rate="41"/>
+<currency id="USD" rate="CB"/>
 <currency id="UAH" rate="1"/>
+<currency id="BYN" rate="CB"/>
+<currency id="KZT" rate="CB"/>
+<currency id="EUR" rate="CB"/>
+<currency id="RON" rate="CB"/>
 </currencies>
 <categories>
-<category id="85328850">Комплектуючі для ПК</category>
-<category id="85328986" parentId="85328850">Відеокарти</category>
-<category id="85364244" parentId="85328850">Материнські плати</category>
+<category id="132585610" parentId="132585537">Павербанки</category>
+<category id="132585612" parentId="132585537">Пристрої зарядки акумуляторів</category>
+<category id="132585369">Тепловізори</category>
+<category id="132583867">Детектори дронів</category>
+<category id="132585470">Прилади нічного бачення</category>
+<category id="132585537">Зарядні пристрої</category>
+<category id="132585579" parentId="132585537">Зарядні станції</category>
+<category id="132291559">Антидронові системи РЕБ</category>
+<category id="132585364">Комплекти для збірки дронів</category>
+<category id="132584910" parentId="131487321">Кабелі та конектори</category>
+<category id="131487482" parentId="131487321">Пропелери для дронів</category>
+<category id="132583859" parentId="131487321">Акумулятори для дронів</category>
+<category id="131487700" parentId="131487321">Рами для FPV дронів</category>
+<category id="131487480" parentId="131487321">Мотори для FPV дронів</category>
+<category id="132585359">Пульти керування для дронів</category>
+<category id="133760558" parentId="133134507">Антени для FPV дронів</category>
+<category id="133760559" parentId="133134507">Відеопередавачі</category>
+<category id="133760560" parentId="133134507">FPV камери</category>
+<category id="133760561" parentId="133134507">Пропелери для дронів</category>
+<category id="133760854" parentId="133134507">Рами для FPV дронів</category>
+<category id="133760855" parentId="133134507">Політні контролери (стек) для FPV дронів</category>
+<category id="131487702" parentId="131487321">Приймачі сигналу для FPV дронів</category>
+<category id="131487469" parentId="131487321">Відеопередавачі</category>
+<category id="131487471" parentId="131487321">FPV камери</category>
+<category id="132585151">Системи управління дронами</category>
+<category id="131487321">Запчастини до FPV дронів</category>
+<category id="131487468" parentId="131487321">Антени для FPV дронів</category>
+<category id="131487701" parentId="131487321">Політні контролери (стек) для FPV дронів</category>
+<category id="133795937" parentId="132948855">Пульти керування</category>
+<category id="133760562" parentId="133134507">Приймачі сигналу для FPV дронів</category>
+<category id="133795938" parentId="132948855">Окуляри</category>
+<category id="132948858" parentId="132948855">Пропелери</category>
+<category id="132948855">FPV</category>
+<category id="132948856" parentId="132948855">Рами</category>
+<category id="133001031" parentId="132948855">АКБ</category>
+<category id="133001030" parentId="132948855">Антена</category>
+<category id="134431954" parentId="132948855">Приймачі та передавачі</category>
+<category id="132585362">FPV-окуляри</category>
+<category id="133134506">FPV дрони та комплектуючі</category>
+<category id="133134508" parentId="133134507">Мотори для FPV дронів</category>
+<category id="133134507" parentId="133134506">Запчастини до FPV дронів</category>
+<category id="133289135" parentId="132948855">Стек</category>
+<category id="132291313" parentId="131487212">FPV дрони 8"</category>
+<category id="133795939" parentId="132948855">Зарядні пристрої</category>
+<category id="132291316" parentId="131487212">FPV дрони 10"</category>
+<category id="134774912" parentId="131487212">Міні-моделі</category>
+<category id="131487212">FPV дрони</category>
+<category id="135475131" parentId="131487212">DJI</category>
+<category id="132948857" parentId="132948855">Мотори</category>
+<category id="132948859" parentId="131487321">Плати ініціації</category>
+<category id="134167072" parentId="131487321">Витратні матеріали</category>
+<category id="134805893" parentId="131487321">Друк</category>
+<category id="131487216" parentId="131487212">FPV дрони 7"</category>
+<category id="133471963" parentId="132948855">Камери</category>
+<category id="133471962" parentId="132948855">Відеопередавачі</category>
+<category id="134299405" parentId="131487321">Система скиду боєприпасів</category>
+<category id="134299406" parentId="131487321">Боєприпаси</category>
 </categories>
 <offers>
-<offer id="1641488880" available="true">
-<url>https://tera-flops.com.ua/ua/p1641488880-videokarta-amd-radeon.html</url>
-<price>17100</price>
+<offer id="2273835635" available="true">
+<url>https://squadrone.in.ua/ua/p2273835635-prijmach-baysk-elrs.html</url>
+<price>520</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://microtron.ua/image/cache/catalog/products/p230730-8762-700x700.png</picture>
-<pickup>true</pickup>
+<categoryId>131487702</categoryId>
+<picture>https://images.prom.ua/6048688206_prijmach-baysk-elrs.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта AMD Radeon RX 6600 XT 8GB GIGABYTE GAMING OC PRO (GV-R66XTGAMINGOC PRO-8GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-R66XTGAMINGOC PRO-8GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Приймaч BАYСK ЕLRS 915МНz NАNО RХ</name>
+<vendor>Bayck</vendor>
+<vendorCode>ELRS 915 Nano RX</vendorCode>
+<country_of_origin>Китай</country_of_origin>
+<param name="Тип">Антенны и аксессуары</param>
+<param name="Состояние">Новое</param>
+<param name="Инструмент для сборки">Нет</param>
+<param name="Мoдель" unit="">ELRs-915m-Nano</param>
+<param name="Вага (г)" unit="">0.6</param>
+<param name="Розмір (мм)" unit="">11х18</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Частота RF" unit="">915</param>
+<param name="Вихідна потужність телеметрії" unit="">50</param>
 </offer>
-<offer id="1641921246" available="true">
-<url>https://tera-flops.com.ua/ua/p1641921246-videokarta-gtx-1660.html</url>
-<price>12530</price>
+<offer id="2273835640" available="true">
+<url>https://squadrone.in.ua/ua/p2273835640-motor-readytosky-3115.html</url>
+<price>650</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://img.moyo.ua/img/products/5261/54_1500.jpg?1675176945</picture>
-<pickup>true</pickup>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6048688244_motor-readytosky-3115.jpg</picture>
+<picture>https://images.prom.ua/6048688254_motor-readytosky-3115.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта GTX 1660 SUPER 6GB ASUS TUF Gaming (TUF-GTX1660S-O6G-GAMING)</name>
-<vendor>Asus</vendor>
-<vendorCode>TUF-GTX1660S-O6G-GAMING</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Мотор Readytosky 3115 900kv</name>
+<vendor>ReadyToSky</vendor>
+<vendorCode>НФ-00040028</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">112</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+<param name="KV" unit="">900KV</param>
+<param name="Напруга (V)" unit="">22.1</param>
+<param name="Максимальна потужність (Вт)" unit="">1500</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">68</param>
+<param name="Тяга" unit="">3960</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="1641935012" available="true">
-<url>https://tera-flops.com.ua/ua/p1641935012-videokarta-amd-radeon.html</url>
-<price>13720</price>
+<offer id="2276631197" available="true">
+<url>https://squadrone.in.ua/ua/p2276631197-akb-molicel-6s2p.html</url>
+<price>3420</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://content.rozetka.com.ua/goods/images/big/234117497.jpg</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6057206780_akb-molicel-6s2p.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта AMD Radeon RX 6600 8GB ASUS DUAL (DUAL-RX6600-8G)</name>
-<vendor>Asus</vendor>
-<vendorCode>DUAL-RX6600-8G</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ Molicel 6s2p 8400mAh</name>
+<vendor>Molicel</vendor>
+<vendorCode>INR21700-P42A</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">570</param>
+<param name="Розміри (мм)" unit="">145x45x45</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Загальна ємність (Вт/год)" unit="">124</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Тип збірки" unit="">6S2P</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Номинальное напряжение, В" unit="В">14.8</param>
+<param name="Струм віддачі (А)" unit="">90</param>
+<param name="Рекомендований струм зарядки (А)" unit="">8</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8400</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">10</param>
+<param name="Гарантийный срок" unit="міс">1</param>
 </offer>
-<offer id="1672986238" available="true">
-<url>https://tera-flops.com.ua/ua/p1672986238-videokarta-gigabyte-nvidia.html</url>
-<price>30930</price>
+<offer id="2280350469" available="true">
+<url>https://squadrone.in.ua/ua/p2280350469-rama-dlya-kvadrokoptera.html</url>
+<price>775</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/288136584.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6070375510_rama-dlya-kvadrokoptera.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта GIGABYTE nVIDIA RTX 3070TI 8GB DDR6X (GV-N307TEAGLE OC-8GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-N307TEAGLE OC-8GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Рама для квадрокоптера Mark 4 7" 295 мм</name>
+<vendorCode>MARK4-7-FRAME</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Мoдель" unit="">Mark4 295 мм</param>
+<param name="Вага (г)" unit="">121</param>
+<param name="Товщина променів (мм)" unit="">5</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір (дюйм)" unit="">7</param>
+<param name="Нижня пластина (мм)" unit="">2.5</param>
+<param name="Верхня пластина (мм)" unit="">2.5</param>
+<param name="Бічні пластини (мм)" unit="">2.5</param>
 </offer>
-<offer id="1673038571" available="true">
-<url>https://tera-flops.com.ua/ua/p1673038571-videokarta-palit-rtx3070ti.html</url>
-<price>29230</price>
+<offer id="2280350470" available="true">
+<url>https://squadrone.in.ua/ua/p2280350470-rama-dlya-kvadrokoptera.html</url>
+<price>875</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://hotline.ua/img/tx/282/2826300775.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6070375511_rama-dlya-kvadrokoptera.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта PALIT RTX3070Ti GAMEROCK OC 8GB (NED307T19P2-1047G)</name>
-<vendor>Palit</vendor>
-<vendorCode>NED307TT19P2-1047G</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Рама для квадрокоптера Mark4 V2 7" (Mark4 V2 7")</name>
+<vendorCode>MARK4-V2-7-FRAME</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Мoдель" unit="">Mark4 V2 7"</param>
+<param name="Вага (г)" unit="">121</param>
+<param name="Товщина променів (мм)" unit="">5</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір (дюйм)" unit="">7</param>
+<param name="Количество лучей" unit="">4</param>
+<param name="Розмір під монтаж камери" unit="">19.3x19.3</param>
+<param name="Нижня пластина (мм)" unit="">2.5</param>
+<param name="Верхня пластина (мм)" unit="">2.5</param>
+<param name="Бічні пластини (мм)" unit="">2.5</param>
 </offer>
-<offer id="1676329396" available="true">
-<url>https://tera-flops.com.ua/ua/p1676329396-videokarta-amd-radeon.html</url>
-<price>7850</price>
+<offer id="2280350473" available="true">
+<url>https://squadrone.in.ua/ua/p2280350473-rama-dlya-kvadrokoptera.html</url>
+<price>1500</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/284413330.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6070375514_rama-dlya-kvadrokoptera.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта AMD Radeon RX 6500 XT 4GB PowerColor Fighter (AXRX 6500XT 4GBD6-DH/OC)</name>
-<vendor>PowerColor</vendor>
-<vendorCode>AXRX 6500XT 4GBD6-DH/OC</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Рама для квадрокоптера Apex HD 7" (Apex HD 7")</name>
+<vendor>Apex</vendor>
+<vendorCode>Apex HD 7"</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Мoдель" unit="">Apex HD 7"</param>
+<param name="Вага (г)" unit="">160</param>
+<param name="Товщина променів (мм)" unit="">5.5</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Розмір (дюйм)" unit="">7</param>
+<param name="Количество лучей" unit="">4</param>
+<param name="Розмір під монтаж камери" unit="">22ч19</param>
+<param name="Нижня пластина (мм)" unit="">2.5</param>
+<param name="Верхня пластина (мм)" unit="">2</param>
+<param name="Бічні пластини (мм)" unit="">2</param>
 </offer>
-<offer id="1688927971" available="true">
-<url>https://tera-flops.com.ua/ua/p1688927971-videokarta-rtx-3060.html</url>
-<price>18520</price>
+<offer id="2285048268" available="true">
+<url>https://squadrone.in.ua/ua/p2285048268-politnij-stek-speedybee.html</url>
+<price>2450</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://proton-it.kyiv.ua/content/images/32/480x480l50nn0/34679752796517.png</picture>
-<pickup>true</pickup>
+<categoryId>131487701</categoryId>
+<picture>https://images.prom.ua/6086069411_politnij-stek-speedybee.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3060 8GB MSI Ventus (912-V397-051)</name>
-<vendor>MSI</vendor>
-<vendorCode>912-V397-051</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Політний стек SpeedyBee F405 V3 50A</name>
+<vendor>SpeedyBee</vendor>
+<vendorCode>SB-F4V3-50-STACK</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">F405 V3 50A</param>
+<param name="Вага (г)" unit="">13.8</param>
+<param name="Монтажні розміри" unit="">30.5x30.5мм</param>
+<param name="MCU" unit="">STM32F405</param>
+<param name="Розмір (мм)" unit="">45.6х44х6.1</param>
+<param name="ESC" unit="">Telemetry UART R5(UART5)</param>
+<param name="OSD Chip" unit="">AT7456E chip</param>
+<param name="IMU(Gyro)" unit="">BMI270</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Прошивка ESC" unit="">BLHeli_S JH50</param>
+<param name="Підтримка прошивок" unit="">BetaFlight(Default), EMUFlight, INAV</param>
+<param name="Target прошивки" unit="">SPEEDYBEEF405V3</param>
+<param name="Барометр" unit="">вбудований</param>
 </offer>
-<offer id="1688945808" available="true">
-<url>https://tera-flops.com.ua/ua/p1688945808-videokarta-rtx-3060.html</url>
-<price>17300</price>
+<offer id="2289400994" available="true">
+<url>https://squadrone.in.ua/ua/p2289400994-fpv-kamera-caddx.html</url>
+<price>1070</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/292642936.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487471</categoryId>
+<picture>https://images.prom.ua/6102472868_fpv-kamera-caddx-ratel.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3060 12GB GIGABYTE (GV-N3060WF2OC-12GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-N3060WF2OC-12GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>FPV-камера Caddx Ratel 2 1200TVL</name>
+<vendor>Caddx</vendor>
+<vendorCode>MN01-2000B</vendorCode>
+<param name="Тип">Камера</param>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Ratel 2 V2 1200TVL</param>
+<param name="Вага (г)" unit="">5.9</param>
+<param name="Розміри (мм)" unit="">19x19x20</param>
+<param name="Формат экрана" unit="">16:9 / 4:3</param>
+<param name="Лінза" unit="">2.1мм FOV 165°</param>
+<param name="Потребление тока" unit="">5-40</param>
+<param name="Материал корпуса" unit="">Магниво-алюмінівій сплав</param>
+<param name="Горизонтальна роздільна здатність" unit="">1200TVL</param>
+<param name="Режим День/Ніч" unit="">Авто / Колір / ЧБ / EXT</param>
+<param name="ТБ вихід" unit="">NTSC & PAL</param>
+<param name="WDR" unit="">Super WDR (HDR)</param>
+<param name="Гарантийный срок" unit="міс">24</param>
 </offer>
-<offer id="1688962126" available="true">
-<url>https://tera-flops.com.ua/ua/p1688962126-videokarta-rtx-3060.html</url>
-<price>20270</price>
+<offer id="2289400995" available="true">
+<url>https://squadrone.in.ua/ua/p2289400995-motor-flashhobby-2807.html</url>
+<price>650</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://hotline.ua/img/tx/244/2442548795.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6102472872_motor-flashhobby-2807.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3060 Ti 8GB Palit Dual (NE6306T019P2-190AD)</name>
-<vendor>Palit</vendor>
-<vendorCode>NE6306T019P2-190AD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Мотор FlashHobby 2807 1300kv</name>
+<vendorCode>A2807</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Avenger 2807</param>
+<param name="Вага (г)" unit="">55.4</param>
+<param name="KV" unit="">1300</param>
+<param name="Максимальна потужність (Вт)" unit="">907.6</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">37.91</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Вал" unit="">5</param>
 </offer>
-<offer id="1689025717" available="true">
-<url>https://tera-flops.com.ua/ua/p1689025717-videokarta-rtx-3070.html</url>
-<price>32480</price>
+<offer id="2289400997" available="true">
+<url>https://squadrone.in.ua/ua/p2289400997-peredavach-video-rush.html</url>
+<price>1940</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://uima.ru/upload/iblock/91d/93yihdmc0dtkgrwyk8u5ayqtss3mj9ce.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487469</categoryId>
+<picture>https://images.prom.ua/6154666463_peredavach-video-rush.jpg</picture>
+<picture>https://images.prom.ua/6154666481_peredavach-video-rush.jpg</picture>
+<picture>https://images.prom.ua/6154666480_peredavach-video-rush.jpg</picture>
+<picture>https://images.prom.ua/6154666495_peredavach-video-rush.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3070 Ti 8GB MSI Gaming X Trio (912-V505-011)</name>
-<vendor>MSI</vendor>
-<vendorCode>912-V505-011</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Передавач відео rush FPV RUSH Tank Solo 5.8 GHz 1600 mW</name>
+<vendor>rushfpv</vendor>
+<vendorCode>RSH-VTX-303-TS1</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Частота" unit="GHz">5.8</param>
+<param name="Мoдель" unit="">RUSH Tank Solo</param>
+<param name="Вага (г)" unit="">11.4</param>
+<param name="Входное напряжение" unit="">36</param>
+<param name="Розмір (мм)" unit="">37x24x6.7</param>
+<param name="Выходная мощность" unit="">1600</param>
+<param name="Число каналов" unit="">48</param>
+<param name="Монтажна схема (мм)" unit="">20x20</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Антенний роз'єм" unit="">MMCX</param>
 </offer>
-<offer id="1641506541" available="true">
-<url>https://tera-flops.com.ua/ua/p1641506541-videokarta-amd-radeon.html</url>
-<price>19890</price>
+<offer id="2289400998" available="true">
+<url>https://squadrone.in.ua/ua/p2289400998-emax-eco-2807.html</url>
+<price>800</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://www.gigabyte.com/FileUpload/Global/KeyFeature/1763/innergigabyteimages/kf-img.png</picture>
-<pickup>true</pickup>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6136960663_emax-eco-ii.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта AMD Radeon RX 6700 XT 12GB GIGABYTE EAGLE (GV-R67XTEAGLE-12GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-R67XTEAGLE-12GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Emax Eco II 2807 1300KV</name>
+<vendor>EMAX</vendor>
+<vendorCode>НФ-00038506</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Мoдель" unit="">ECO II 2807 1300KV</param>
+<param name="Вага (г)" unit="">47.6</param>
+<param name="KV" unit="">1300</param>
+<param name="Дріт AWG" unit="">18AWG, 20 см</param>
+<param name="Напруга (V)" unit="">6</param>
+<param name="Максимальна потужність (Вт)" unit="">1310</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">52</param>
+<param name="Вал" unit="">4</param>
+<param name="Діаметр валу (мм)" unit="">M5</param>
 </offer>
-<offer id="1671212957" available="true">
-<url>https://tera-flops.com.ua/ua/p1671212957-videokarta-rtx-3090.html</url>
-<price>42150</price>
+<offer id="2289400999" available="true">
+<url>https://squadrone.in.ua/ua/p2289400999-kamera-caddx-ratel.html</url>
+<price>2760</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://www.manli.com/upload/2020/11/03/s[1]_1nx5fez0sdgbr1604381965.png</picture>
-<pickup>true</pickup>
+<categoryId>131487471</categoryId>
+<picture>https://images.prom.ua/6137033817_kamera-caddx-ratel.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3090 24GB Manli (M-NRTX3090/6RHHPPP-M3478)</name>
-<vendor>Manli</vendor>
-<vendorCode>M-NRTX3090/6RHHPPP-M3478</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Камера Caddx Ratel 2 Pro Black</name>
+<vendorCode>MN01-4000B</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="міс">0</param>
 </offer>
-<offer id="1676336303" available="true">
-<url>https://tera-flops.com.ua/ua/p1676336303-videokarta-rtx-3060.html</url>
-<price>16750</price>
+<offer id="2289401005" available="true">
+<url>https://squadrone.in.ua/ua/p2289401005-motor-9imod-b3115.html</url>
+<price>760</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://content.rozetka.com.ua/goods/images/big/244885518.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6102474392_motor-9imod-b3115.jpg</picture>
+<picture>https://images.prom.ua/6102474393_motor-9imod-b3115.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3060 Ti 8GB PNY REVEL EPIC-X RGB (VCG3060T8LDFXPPB)</name>
-<vendor>PNY</vendor>
-<vendorCode>VCG3060T8LDFXPPB</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Мотор 9IMOD B3115 900KV</name>
+<vendorCode>B3115</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="KV" unit="">900KV</param>
+<param name="Напруга (V)" unit="">25</param>
+<param name="Максимальна потужність (Вт)" unit="">1005</param>
+<param name="Максимальний струм (А)" unit="">40</param>
+<param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="1688516285" available="true">
-<url>https://tera-flops.com.ua/ua/p1688516285-videokarta-rtx-3070.html</url>
-<price>28360</price>
+<offer id="2298134444" available="true">
+<url>https://squadrone.in.ua/ua/p2298134444-motor-ready-sky.html</url>
+<price>450</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://hotline.ua/img/tx/286/2867428785.jpg</picture>
-<pickup>true</pickup>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6136620587_motor-ready-to.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3070 8GB GIGABYTE AORUS MASTER (GV-N3070AORUS M-8GD)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>GV-N3070AORUS M-8GD</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Мотор ReadyToSky 2806.5 1300KV (2806.5)</name>
+<vendor>ReadyToSky</vendor>
+<vendorCode>2806.5</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">RTS2806.5</param>
+<param name="Вага (г)" unit="">53</param>
+<param name="KV" unit="">1300</param>
+<param name="Напруга (V)" unit="">6</param>
+<param name="Максимальна потужність (Вт)" unit="">1150</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">45</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Вал" unit="">M5</param>
+<param name="Монтажна схема" unit="">19x19</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
 </offer>
-<offer id="1688940558" available="true">
-<url>https://tera-flops.com.ua/ua/p1688940558-videokarta-rtx-3060.html</url>
-<price>20150</price>
+<offer id="2298134446" available="true">
+<url>https://squadrone.in.ua/ua/p2298134446-videoperedavach-rushfpv-max.html</url>
+<price>2800</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://img.moyo.ua/img/gallery/5235/44/1553042_middle.jpg?1676879021</picture>
-<pickup>true</pickup>
+<categoryId>131487469</categoryId>
+<picture>https://images.prom.ua/6136620592_videoperedavach-rushfpv-max.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3060 12GB MSI GAMING Z TRIO (912-V390-255)</name>
-<vendor>MSI</vendor>
-<vendorCode>912-V390-255</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Відеопередавач rushFPV Max Solo 5.8G 2.5W 48CH (Max Solo)</name>
+<vendor>rushfpv</vendor>
+<vendorCode>НФ-00041839</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Частота" unit="GHz">5.8</param>
+<param name="Мoдель" unit="">Max Solo 5.8G 2.5W 48CH</param>
+<param name="Вага (г)" unit="">15</param>
+<param name="Входное напряжение" unit="">34</param>
+<param name="Розмір (мм)" unit="">40х24х10.5</param>
+<param name="Выходная мощность" unit="">2500</param>
+<param name="Число каналов" unit="">48</param>
+<param name="Монтажна схема (мм)" unit="">20x20</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Антенний роз'єм" unit="">MMCX</param>
 </offer>
-<offer id="1688969917" available="true">
-<url>https://tera-flops.com.ua/ua/p1688969917-videokarta-rtx-3060.html</url>
-<price>19450</price>
+<offer id="2298134448" available="true">
+<url>https://squadrone.in.ua/ua/p2298134448-motor-uangel-x2812.html</url>
+<price>600</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://www.inno3d.com/assets/files/product_image/image/3060TiX2_set_v2.png</picture>
-<pickup>true</pickup>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6136620603_motor-uangel-x2812-900kv.jpg</picture>
+<picture>https://images.prom.ua/6136620600_motor-uangel-x2812-900kv.jpg</picture>
+<picture>https://images.prom.ua/6136620605_motor-uangel-x2812-900kv.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3060 TI 8GB Inno3D Twin X2 (N306T2-08D6X-119032)</name>
-<vendor>Inno3D</vendor>
-<vendorCode>N306T2-08D6X-119032</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Мотор Uangel X2812-900KV</name>
+<vendorCode>X2812</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">73</param>
+<param name="KV" unit="">900KV</param>
+<param name="Дріт AWG" unit="">18AWG 250mm</param>
+<param name="Максимальна потужність (Вт)" unit="">950</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">40</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Діаметр валу (мм)" unit="">4</param>
 </offer>
-<offer id="1727180649" available="true">
-<url>https://tera-flops.com.ua/ua/p1727180649-videokarta-rtx-3060.html</url>
-<price>18000</price>
+<offer id="2298134449" available="true">
+<url>https://squadrone.in.ua/ua/p2298134449-kamera-foxeer-razer.html</url>
+<price>1100</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://dlcdnwebimgs.asus.com/gain/e4ae0c15-6bd8-482b-aa5b-47506dff16fc/</picture>
-<pickup>true</pickup>
+<categoryId>131487471</categoryId>
+<picture>https://images.prom.ua/6136620608_kamera-foxeer-razer.jpg</picture>
+<picture>https://images.prom.ua/6136620611_kamera-foxeer-razer.jpg</picture>
+<picture>https://images.prom.ua/6136620613_kamera-foxeer-razer.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3060 Ti 8GB Asus Dual Mini (DUAL-RTX30TI-8G-MINI-V2)</name>
-<vendor>Asus</vendor>
-<vendorCode>DUAL-RTX3060TI-8G-MINI-V2</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Камера Foxeer razer mini v2</name>
+<vendor>Razer</vendor>
+<vendorCode>HS1268</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="міс">1</param>
+<param name="Вага (г)" unit="">12</param>
+<param name="Розміри (мм)" unit="">22x22</param>
+<param name="Входное напряжение" unit="">4.5-25</param>
+<param name="Угол обзора" unit="">FOV-H: 125° FOV-D: 155°</param>
+<param name="Формат экрана" unit="">4:3</param>
+<param name="Лінза" unit="">2.1 мм</param>
+<param name="Затвор" unit="">PAL 1/251/10000 ; NTSC 1/301/10000</param>
+<param name="Режим День/Ніч" unit="">Авто/Кольоровий/ЧБ</param>
+<param name="Чувствительность" unit="">0.01 Lux</param>
 </offer>
-<offer id="1776733579" available="true">
-<url>https://tera-flops.com.ua/ua/p1776733579-videokarta-rtx-3080.html</url>
-<price>30820</price>
+<offer id="2313946179" available="true">
+<url>https://squadrone.in.ua/ua/p2313946179-initsiator-fcat.html</url>
+<price>550</price>
 <currencyId>UAH</currencyId>
-<categoryId>85328986</categoryId>
-<picture>https://gzhls.at/i/42/88/2664288-n0.jpg</picture>
-<pickup>true</pickup>
+<categoryId>132948859</categoryId>
+<picture>https://images.prom.ua/6192308475_initsiator-fcat-v1.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Відеокарта RTX 3080 10GB Palit GAMINGPRO (NED3080019IA-132AA)</name>
-<vendor>Palit</vendor>
-<vendorCode>NED3080019IA-132AA</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Ініціатор "FCAT v1"</name>
+<vendorCode>FCAT v1</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Індикація ARM/DISARM" unit="">Да</param>
+<param name="Максимальний струм ініціації (мА)" unit="">1500</param>
+<param name="Монтажні отвори (мм)" unit="">30.5x30.5, M3 + 20x20 М3</param>
+<param name="Напруга живлення (В)" unit="">3-5</param>
+<param name="Предохранитель" unit="">ARM/DISARM по PWM каналу</param>
+<param name="Підключення детонатора" unit="">Клемна колодка</param>
+<param name="Роз'єм підключення до політного контролеру" unit="">JST-SH 1.0 4pin</param>
+<param name="Розміри (мм)" unit="">36x36</param>
+<param name="Таймер безпеки" unit="">2 хв після зняття з механічного запобіжника</param>
+<param name="Таймер самознищення" unit="">30 хв після крайнього ARM</param>
+<param name="Тип спрацювання" unit="">спрацювання по PWM каналу</param>
+<param name="Гарантийный срок" unit="міс">1</param>
 </offer>
-<offer id="1641745560" available="true">
-<url>https://tera-flops.com.ua/ua/p1641745560-materinska-plata-msi.html</url>
-<price>4580</price>
+<offer id="2313946183" available="true">
+<url>https://squadrone.in.ua/ua/p2313946183-initsiator-mariupol.html</url>
+<price>950</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content.rozetka.com.ua/goods/images/big/247626965.png</picture>
-<pickup>true</pickup>
+<categoryId>132948859</categoryId>
+<picture>https://images.prom.ua/6192308543_initsiator-mariupol-v1.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата MSI PRO B660M-G DDR4 1700 (PRO B660M-G DDR4)</name>
-<vendor>MSI</vendor>
-<vendorCode>PRO B660M-G DDR4</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>Ініціатор "Маріуполь v1"</name>
+<vendorCode>Маріуполь v1</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Індикація ARM/DISARM" unit="">Да</param>
+<param name="Максимальний струм ініціації (мА)" unit="">1500</param>
+<param name="Напруга живлення (В)" unit="">3</param>
+<param name="Предохранитель" unit="">ARM/DISARM по PWM каналу</param>
+<param name="Підключення детонатора" unit="">Клемна колодка</param>
+<param name="Роз'єм підключення до політного контролеру" unit="">JST-SH 2.0/1.0 4pin</param>
+<param name="Розміри (мм)" unit="">65x43x23</param>
+<param name="Таймер безпеки" unit="">2 хв після зняття з механічного запобіжника</param>
+<param name="Таймер самознищення" unit="">30 хв після крайнього ARM</param>
+<param name="Тип спрацювання" unit="">спрацювання по PWM каналу</param>
+<param name="Гарантийный срок" unit="міс">1</param>
 </offer>
-<offer id="1673510567" available="true">
-<url>https://tera-flops.com.ua/ua/p1673510567-materinska-plata-gigabyte.html</url>
-<price>3980</price>
+<offer id="2313950104" available="true">
+<url>https://squadrone.in.ua/ua/p2313950104-akb-dlya-drona.html</url>
+<price>3300</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content.rozetka.com.ua/goods/images/big/56496588.jpg</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341394_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата GIGABYTE B450 AORUS ELITE V2 (B450 AORUS ELITE V2)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>B450 AORUS ELITE V2</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ для дрона Molicel INR21700 P42A 6s2p (горизонтальна) 8400mAh 90A</name>
+<vendor>Molicel</vendor>
+<vendorCode>INR21700 P42A</vendorCode>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8400</param>
+<param name="Вага (г)" unit="">870</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Розміри (мм)" unit="">145x65x45</param>
+<param name="Струм віддачі (А)" unit="">90</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S2P</param>
 </offer>
-<offer id="1673512466" available="true">
-<url>https://tera-flops.com.ua/ua/p1673512466-materinska-plata-gigabyte.html</url>
-<price>5010</price>
+<offer id="2313950105" available="true">
+<url>https://squadrone.in.ua/ua/p2313950105-akb-dlya-drona.html</url>
+<price>3300</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/121207676.png</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341396_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата GIGABYTE B550 GAMING X V2 (B550 GAMING X V2)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>B550 GAMING X V2</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ для дрона Samsung INR21700-40T SDI 6s2p (горизонтальна) 8000mAh 90A</name>
+<vendor>Samsung</vendor>
+<vendorCode>INR21700-40T SDI</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8000</param>
+<param name="Вага (г)" unit="">870</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Розміри (мм)" unit="">145x65x45</param>
+<param name="Струм віддачі (А)" unit="">90</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S2P</param>
+<param name="Гарантийный срок" unit="міс">1</param>
 </offer>
-<offer id="1673524644" available="true">
-<url>https://tera-flops.com.ua/ua/p1673524644-materinska-plata-gigabyte.html</url>
-<price>6060</price>
+<offer id="2313950106" available="true">
+<url>https://squadrone.in.ua/ua/p2313950106-akb-dlya-drona.html</url>
+<price>3200</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content1.rozetka.com.ua/goods/images/big/180835076.jpg</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341398_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата GIGABYTE B550 AORUS ELITE V2 (B550 AORUS ELITE V2)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>B550 AORUS ELITE V2</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ для дрона Tenpower INR21700-40TG 6s2p (горизонтальна) 8000mAh 70A</name>
+<vendor>TenPower</vendor>
+<vendorCode>INR21700-40TG</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8000</param>
+<param name="Вага (г)" unit="">870</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Розміри (мм)" unit="">145x65x45</param>
+<param name="Струм віддачі (А)" unit="">70</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S2P</param>
+<param name="Гарантийный срок" unit="міс">1</param>
 </offer>
-<offer id="1673529257" available="true">
-<url>https://tera-flops.com.ua/ua/p1673529257-materinska-plata-gigabyte.html</url>
-<price>5700</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content1.rozetka.com.ua/goods/images/big/271257750.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Материнська плата GIGABYTE B660M GAMING X DDR4 (B660M GAMING X DDR4)</name>
-<vendor>Gigabyte</vendor>
-<vendorCode>B660M GAMING X DDR4</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
-<offer id="1683806132" available="true">
-<url>https://tera-flops.com.ua/ua/p1683806132-materinska-plata-asrock.html</url>
-<price>2490</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://photo.kvshop.com.ua/products/187/187394/asrock-h510m-hdv-r2-0.o.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Материнська плата ASRock H510M-HDV R2.0 Socket 1200 (H510M-HDV R2.0)</name>
-<vendor>ASRock</vendor>
-<vendorCode>H510M-HDV R2.0</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
-<offer id="1684881581" available="true">
-<url>https://tera-flops.com.ua/ua/p1684881581-materinskaya-plata-asus.html</url>
-<price>4190</price>
-<currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/246380538.jpg</picture>
-<pickup>true</pickup>
-<delivery>true</delivery>
-<name>Материнская плата Asus Prime H610M-A D4 Socket 1700 (PRIME H610M-A D4)</name>
-<vendor>Asus</vendor>
-<vendorCode>PRIME H610M-A D4</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
-</offer>
-<offer id="1711254865" available="true">
-<url>https://tera-flops.com.ua/ua/p1711254865-materinska-plata-colorful.html</url>
+<offer id="2313950107" available="true">
+<url>https://squadrone.in.ua/ua/p2313950107-akb-dlya-drona.html</url>
 <price>3150</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://i.can.ua/images/700x700/goods/10609/10609033.jpg</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341400_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата Colorful H610M-D M.2 V20 LGA 1700 (H610M-D M.2 V20)</name>
-<vendor>Colorful</vendor>
-<vendorCode>H610M-D M.2 V20</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ для дрона Molicel INR21700 P42A 6s2p (вертикальна) 8400mAh 90A</name>
+<vendor>Molicel</vendor>
+<vendorCode>INR21700 P42A</vendorCode>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">865</param>
+<param name="Розміри (мм)" unit="">130x75x45</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Тип збірки" unit="">6S2P</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Струм віддачі (А)" unit="">90</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8400</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
 </offer>
-<offer id="1734386251" available="true">
-<url>https://tera-flops.com.ua/ua/p1734386251-materinska-plata-asus.html</url>
-<price>2740</price>
+<offer id="2313950108" available="true">
+<url>https://squadrone.in.ua/ua/p2313950108-akb-dlya-drona.html</url>
+<price>3150</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content.rozetka.com.ua/goods/images/big/180575730.jpg</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341402_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата ASUS PRIME H510M-K Socket 1200 (PRIME H510M-K)</name>
-<vendor>Asus</vendor>
-<vendorCode>PRIME H510M-K</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ для дрона Samsung INR21700-40T SDI 6s2p (вертикальна) 8000 mAh 90A</name>
+<vendor>Samsung</vendor>
+<vendorCode>INR21700-40T SDI</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Гарантийный срок" unit="міс">1</param>
+<param name="Вага (г)" unit="">865</param>
+<param name="Розміри (мм)" unit="">130x75x45</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Тип збірки" unit="">6S2P</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Струм віддачі (А)" unit="">90</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8000</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
 </offer>
-<offer id="1734974166" available="true">
-<url>https://tera-flops.com.ua/ua/p1734974166-materinska-plata-asus.html</url>
-<price>2860</price>
+<offer id="2313950109" available="true">
+<url>https://squadrone.in.ua/ua/p2313950109-akb-dlya-drona.html</url>
+<price>3100</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://content2.rozetka.com.ua/goods/images/big/267410865.jpg</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204983872_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата Asus Prime H510M-R-SI Socket 1200 (PRIME H510M-R-SI)</name>
-<vendor>Asus</vendor>
-<vendorCode>PRIME H510M-R-SI</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ для дрона Tenpower INR21700-40TG 6s2p (вертикальна) 8000 mAh 70A</name>
+<vendor>TenPower</vendor>
+<vendorCode>INR21700-40TG</vendorCode>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантийный срок" unit="міс">1</param>
+<param name="Вага (г)" unit="">865</param>
+<param name="Розміри (мм)" unit="">130x75x45</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Тип збірки" unit="">6S2P</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Струм віддачі (А)" unit="">70</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8000</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
 </offer>
-<offer id="1766109763" available="true">
-<url>https://tera-flops.com.ua/ua/p1766109763-materinska-plata-asrock.html</url>
-<price>2500</price>
+<offer id="2313950110" available="true">
+<url>https://squadrone.in.ua/ua/p2313950110-akb-dlya-drona.html</url>
+<price>4200</price>
 <currencyId>UAH</currencyId>
-<categoryId>85364244</categoryId>
-<picture>https://www.asrock.com/mb/photo/H470M-HDV(M1).png</picture>
-<pickup>true</pickup>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341404_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
 <delivery>true</delivery>
-<name>Материнська плата ASRock H470M-HDV LGA 1200 (H470M-HDV)</name>
-<vendor>ASRock</vendor>
-<vendorCode>H470M-HDV</vendorCode>
-<guarantee type="shop">24 міс</guarantee>
+<name>АКБ для дрона Samsung INR21700-50S 6s2p (вертикальна) 10000mAh 90A</name>
+<vendor>Samsung</vendor>
+<vendorCode>INR21700-50S</vendorCode>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Разъемы">XT60</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">10000</param>
+<param name="Вага (г)" unit="">865</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Розміри (мм)" unit="">130x75x45</param>
+<param name="Струм віддачі (А)" unit="">90</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S2P</param>
+</offer>
+<offer id="2313950111" available="true">
+<url>https://squadrone.in.ua/ua/p2313950111-akb-dlya-drona.html</url>
+<price>4650</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341406_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Molicel INR21700 P42A 6s3p (вертикальна) 12600mAh 135A</name>
+<vendor>Molicel</vendor>
+<vendorCode>INR21700 P42A</vendorCode>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">12600</param>
+<param name="Вага (г)" unit="">1265</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Розміри (мм)" unit="">130x75x65</param>
+<param name="Струм віддачі (А)" unit="">135</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S3P</param>
+</offer>
+<offer id="2313950112" available="true">
+<url>https://squadrone.in.ua/ua/p2313950112-akb-dlya-drona.html</url>
+<price>4650</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341409_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Samsung INR21700-40T SDI 6s3p (вертикальна) 12000 mAh 135A</name>
+<vendor>Samsung</vendor>
+<vendorCode>INR21700-40T</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">12000</param>
+<param name="Вага (г)" unit="">1265</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Розміри (мм)" unit="">130x75x65</param>
+<param name="Струм віддачі (А)" unit="">135</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S3P</param>
+<param name="Гарантийный срок" unit="міс">1</param>
+</offer>
+<offer id="2313950113" available="true">
+<url>https://squadrone.in.ua/ua/p2313950113-akb-dlya-drona.html</url>
+<price>6300</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341587_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Samsung INR21700-50S 6s3p (вертикальна) 15000mAh 135A</name>
+<vendor>Samsung</vendor>
+<vendorCode>INR21700-50S</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">15000</param>
+<param name="Вага (г)" unit="">1265</param>
+<param name="Гарантийный срок" unit="міс">1</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Розміри (мм)" unit="">130x75x65</param>
+<param name="Струм віддачі (А)" unit="">135</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S3P</param>
+</offer>
+<offer id="2313950114" available="true">
+<url>https://squadrone.in.ua/ua/p2313950114-akb-dlya-drona.html</url>
+<price>4600</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6192341588_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Tenpower INR21700-40TG 6s3p (вертикальна) 12000 mAh 105A</name>
+<vendor>TenPower</vendor>
+<vendorCode>INR21700-40TG</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">12000</param>
+<param name="Вага (г)" unit="">1265</param>
+<param name="Максимальна напруга (В)" unit="">22.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Розміри (мм)" unit="">130x75x65</param>
+<param name="Струм віддачі (А)" unit="">105</param>
+<param name="Температурний діапазон заряду" unit="">0 / +45</param>
+<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
+<param name="Тип збірки" unit="">6S3P</param>
+<param name="Гарантийный срок" unit="міс">1</param>
+</offer>
+<offer id="2314829173" available="true">
+<url>https://squadrone.in.ua/ua/p2314829173-politnij-stek-galichina.html</url>
+<price>2850</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487701</categoryId>
+<picture>https://images.prom.ua/6195476394_politnij-stek-galichina.jpg</picture>
+<picture>https://images.prom.ua/6195476320_politnij-stek-galichina.jpg</picture>
+<picture>https://images.prom.ua/6195476387_politnij-stek-galichina.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Політний стек "Галичина v1.3"</name>
+<vendorCode>Галичина v1.3</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Галичина v1.3</param>
+<param name="Вага (г)" unit="">4</param>
+<param name="Монтажні розміри" unit="">30.5 x 30.5, M3</param>
+<param name="MCU" unit="">STM32F405RGT6</param>
+<param name="Розмір (мм)" unit="">45x45</param>
+<param name="ESC" unit="">AT7456</param>
+<param name="IMU(Gyro)" unit="">ICM42688P</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Прошивка ESC" unit="">BLHeli_S, target: J_H_50</param>
+<param name="Підтримка прошивок" unit="">Betaflight, INAV</param>
+<param name="Target прошивки" unit="">DSHOT300/600</param>
+<param name="Барометр" unit="">DPS310</param>
+<param name="Підтримка акумуляторів" unit="">Li-Ion/Li-Pol 3-6S</param>
+</offer>
+<offer id="2314829174" available="true">
+<url>https://squadrone.in.ua/ua/p2314829174-politnij-stek-karma.html</url>
+<price>3550</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487701</categoryId>
+<picture>https://images.prom.ua/6195473665_politnij-stek-karma.jpg</picture>
+<picture>https://images.prom.ua/6195473668_politnij-stek-karma.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Політний стек Karma F405V1</name>
+<vendor>Karma</vendor>
+<vendorCode>Karma F405V1</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Монтажні розміри" unit="">30.5 х 30.5</param>
+<param name="MCU" unit="">STM32F405</param>
+<param name="Розмір (мм)" unit="">48.5 х 40</param>
+<param name="IMU(Gyro)" unit="">ICM-42688-P</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Прошивка ESC" unit="">AM32</param>
+<param name="Барометр" unit="">BMP280</param>
+<param name="Підтримка акумуляторів" unit="">4s-6s</param>
+</offer>
+<offer id="2317605658" available="true">
+<url>https://squadrone.in.ua/ua/p2317605658-akb-dlya-drona.html</url>
+<price>1900</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828058_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Molicel 21700 6s1p 4200mAh віддача 45/90A</name>
+<vendor>Molicel</vendor>
+<vendorCode>НФ-00050207</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">4200</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">22.2</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Рекомендований струм зарядки (А)" unit="">90</param>
+<param name="Розміри (мм)" unit="">65x72x43</param>
+<param name="Струм віддачі (А)" unit="">45</param>
+<param name="Тип збірки" unit="">6s1p</param>
+</offer>
+<offer id="2317605659" available="true">
+<url>https://squadrone.in.ua/ua/p2317605659-akb-dlya-drona.html</url>
+<price>3400</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204880829_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Molicel 21700 6s2p 8400mAh віддача 90/180A</name>
+<vendor>Molicel</vendor>
+<vendorCode>НФ-00050208</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">0.85</param>
+<param name="Розміри (мм)" unit="">130x72x43</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Тип збірки" unit="">6s2p</param>
+<param name="Номинальное напряжение, В" unit="В">22.2</param>
+<param name="Струм віддачі (А)" unit="">90</param>
+<param name="Рекомендований струм зарядки (А)" unit="">180</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8400</param>
+</offer>
+<offer id="2317605660" available="true">
+<url>https://squadrone.in.ua/ua/p2317605660-akb-dlya-drona.html</url>
+<price>5000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828059_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Molicel 21700 6s3p 12600mAh віддача 125/270A</name>
+<vendor>Molicel</vendor>
+<vendorCode>НФ-00050209</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">12600</param>
+<param name="Вага (г)" unit="">1.32</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">22.2</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Рекомендований струм зарядки (А)" unit="">270</param>
+<param name="Розміри (мм)" unit="">130x72x64.5</param>
+<param name="Струм віддачі (А)" unit="">125</param>
+<param name="Тип збірки" unit="">6s3p</param>
+</offer>
+<offer id="2317605661" available="true">
+<url>https://squadrone.in.ua/ua/p2317605661-akb-dlya-drona.html</url>
+<price>1500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828060_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sоnу Murаtа VTC6A 21700 6s1p 3950mAh віддача 35/45A</name>
+<vendor>Sony</vendor>
+<vendorCode>НФ-00050210</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">3950</param>
+<param name="Вага (г)" unit="">420</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Максимальна напруга (В)" unit="">15</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Рекомендований струм зарядки (А)" unit="">45</param>
+<param name="Розміри (мм)" unit="">65x43x75</param>
+<param name="Струм віддачі (А)" unit="">35</param>
+<param name="Тип збірки" unit="">6s1p</param>
+</offer>
+<offer id="2317605662" available="true">
+<url>https://squadrone.in.ua/ua/p2317605662-akb-dlya-drona.html</url>
+<price>2800</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828061_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sоnу Murаtа VTC6A 21700 6s2p 7900mAh віддача 70/90A</name>
+<vendor>Sony</vendor>
+<vendorCode>НФ-00050211</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">7900</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Рекомендований струм зарядки (А)" unit="">90</param>
+<param name="Розміри (мм)" unit="">130x43x75</param>
+<param name="Струм віддачі (А)" unit="">70</param>
+<param name="Тип збірки" unit="">6s2p</param>
+</offer>
+<offer id="2317605663" available="true">
+<url>https://squadrone.in.ua/ua/p2317605663-akb-dlya-drona.html</url>
+<price>4100</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204892479_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sоnу Murаtа VTC6A 21700 6s3p 11850mAh віддача 105/135A</name>
+<vendor>Sony</vendor>
+<vendorCode>НФ-00050212</vendorCode>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Состояние" unit="">Б/В</param>
+<param name="Вага (г)" unit="">1300</param>
+<param name="Розміри (мм)" unit="">130x67x75</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Тип збірки" unit="">6s3p</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Струм віддачі (А)" unit="">105</param>
+<param name="Рекомендований струм зарядки (А)" unit="">135</param>
+<param name="Ємність акумулятора (мА/год)" unit="">11850</param>
+<param name="Максимальна напруга (В)" unit="">15</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+</offer>
+<offer id="2317605664" available="true">
+<url>https://squadrone.in.ua/ua/p2317605664-akb-dlya-drona.html</url>
+<price>2000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204893973_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sаmsung 50s 21700 6s1p 5000mAh віддача 35/50A</name>
+<vendor>Samsung</vendor>
+<vendorCode>НФ-00050213</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">420</param>
+<param name="Розміри (мм)" unit="">65x43x75</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Тип збірки" unit="">6s1p</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Струм віддачі (А)" unit="">35</param>
+<param name="Рекомендований струм зарядки (А)" unit="">50</param>
+<param name="Ємність акумулятора (мА/год)" unit="">5000</param>
+<param name="Максимальна напруга (В)" unit="">15</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+</offer>
+<offer id="2317605665" available="true">
+<url>https://squadrone.in.ua/ua/p2317605665-akb-dlya-drona.html</url>
+<price>4000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828062_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sаmsung 50s 21700 6s2p 10000mAh віддача 70/100A</name>
+<vendor>Samsung</vendor>
+<vendorCode>НФ-00050214</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">10000</param>
+<param name="Вага (г)" unit="">890</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Максимальна напруга (В)" unit="">16.2</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">22.2</param>
+<param name="Разъемы" unit="">JST-XH</param>
+<param name="Рекомендований струм зарядки (А)" unit="">100</param>
+<param name="Розміри (мм)" unit="">130x75x43</param>
+<param name="Струм віддачі (А)" unit="">70</param>
+<param name="Тип збірки" unit="">6s2p</param>
+</offer>
+<offer id="2317605666" available="true">
+<url>https://squadrone.in.ua/ua/p2317605666-akb-dlya-drona.html</url>
+<price>6100</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204984575_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Samsung 50s 21700 6s3p 15000 mAh</name>
+<vendor>Samsung</vendor>
+<vendorCode>НФ-00050215</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">1400</param>
+<param name="Розміри (мм)" unit="">130х75х65</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Тип збірки" unit="">6s3p</param>
+<param name="Номинальное напряжение, В" unit="В">22.2</param>
+<param name="Струм віддачі (А)" unit="">6</param>
+<param name="Рекомендований струм зарядки (А)" unit="">2</param>
+<param name="Ємність акумулятора (мА/год)" unit="">15000</param>
+<param name="Максимальна напруга (В)" unit="">4.2</param>
+<param name="Мінімальна напруга (В)" unit="">2.5</param>
+</offer>
+<offer id="2317605667" available="true">
+<url>https://squadrone.in.ua/ua/p2317605667-akb-dlya-drona.html</url>
+<price>1600</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828298_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sunpower 21700 6s1p 4000mAh віддача 40/80А</name>
+<vendor>SunPower</vendor>
+<vendorCode>НФ-00050216</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">4000</param>
+<param name="Вага (г)" unit="">460</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Рекомендований струм зарядки (А)" unit="">80</param>
+<param name="Розміри (мм)" unit="">65x42x75</param>
+<param name="Струм віддачі (А)" unit="">40</param>
+<param name="Тип збірки" unit="">6s1p</param>
+</offer>
+<offer id="2317605668" available="true">
+<url>https://squadrone.in.ua/ua/p2317605668-akb-dlya-drona.html</url>
+<price>3000</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204895021_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sunpower 21700 6s2p 8000mAh віддача 80/160А</name>
+<vendor>SunPower</vendor>
+<vendorCode>НФ-00050217</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">0.87</param>
+<param name="Розміри (мм)" unit="">128х72х44</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Тип збірки" unit="">6s2p</param>
+<param name="Номинальное напряжение, В" unit="В">22.2</param>
+<param name="Струм віддачі (А)" unit="">80</param>
+<param name="Рекомендований струм зарядки (А)" unit="">160</param>
+<param name="Ємність акумулятора (мА/год)" unit="">8000</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+</offer>
+<offer id="2317605669" available="true">
+<url>https://squadrone.in.ua/ua/p2317605669-akb-dlya-drona.html</url>
+<price>4100</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828299_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Sunpower 21700 6s3p 12000mAh віддача 120А</name>
+<vendor>SunPower</vendor>
+<vendorCode>НФ-00050218</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">12000</param>
+<param name="Вага (г)" unit="">1300</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Розміри (мм)" unit="">130x65x75</param>
+<param name="Струм віддачі (А)" unit="">120</param>
+<param name="Тип збірки" unit="">6s3p</param>
+</offer>
+<offer id="2317605670" available="true">
+<url>https://squadrone.in.ua/ua/p2317605670-akb-dlya-drona.html</url>
+<price>1500</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204895339_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Lishen 21700 6s1p 3950mAh віддача 40/80А</name>
+<vendorCode>НФ-00050219</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">460</param>
+<param name="Розміри (мм)" unit="">65x42x75</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Тип збірки" unit="">6s1p</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Струм віддачі (А)" unit="">40</param>
+<param name="Рекомендований струм зарядки (А)" unit="">80</param>
+<param name="Ємність акумулятора (мА/год)" unit="">3950</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+</offer>
+<offer id="2317605671" available="true">
+<url>https://squadrone.in.ua/ua/p2317605671-akb-dlya-drona.html</url>
+<price>2800</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828300_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Lishen 21700 6s2p 7900mAh віддача 80/160А</name>
+<vendorCode>НФ-00050220</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">7900</param>
+<param name="Вага (г)" unit="">900</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Рекомендований струм зарядки (А)" unit="">160</param>
+<param name="Розміри (мм)" unit="">130x43x75</param>
+<param name="Струм віддачі (А)" unit="">80</param>
+<param name="Тип збірки" unit="">6s2p</param>
+</offer>
+<offer id="2317605672" available="true">
+<url>https://squadrone.in.ua/ua/p2317605672-akb-dlya-drona.html</url>
+<price>3900</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6204828301_akb-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>АКБ для дрона Lishen 21700 6s3p 11850mAh віддача 120А</name>
+<vendorCode>НФ-00050221</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Ємність акумулятора (мА/год)" unit="">11850</param>
+<param name="Вага (г)" unit="">1300</param>
+<param name="Гарантийный срок" unit="міс">24</param>
+<param name="Максимальна напруга (В)" unit="">16.8</param>
+<param name="Мінімальна напруга (В)" unit="">25.2</param>
+<param name="Назначение" unit="">Для авіамоделей</param>
+<param name="Номинальное напряжение, В" unit="В">21.6</param>
+<param name="Разъемы" unit="">XT60</param>
+<param name="Розміри (мм)" unit="">130x65x75</param>
+<param name="Струм віддачі (А)" unit="">120</param>
+<param name="Тип збірки" unit="">6s3p</param>
+</offer>
+<offer id="2317605678" available="true">
+<url>https://squadrone.in.ua/ua/p2317605678-sistema-skidu-fpv.html</url>
+<price>1925</price>
+<currencyId>UAH</currencyId>
+<categoryId>134299405</categoryId>
+<picture>https://images.prom.ua/6204828340_sistema-skidu-fpv-ds.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Система скиду FPV-DS</name>
+<vendorCode>FPV-DS</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">140</param>
+<param name="Гарантийный срок" unit="міс">0</param>
+</offer>
+<offer id="2317605679" available="true">
+<url>https://squadrone.in.ua/ua/p2317605679-sistema-skidu-fpv.html</url>
+<price>2475</price>
+<currencyId>UAH</currencyId>
+<categoryId>134299405</categoryId>
+<picture>https://images.prom.ua/6204828341_sistema-skidu-fpv-ds2.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Система скиду FPV-DS2</name>
+<vendorCode>FPV-DS2</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">165</param>
+<param name="Гарантийный срок" unit="міс">0</param>
+</offer>
+<offer id="2322733857" available="true">
+<url>https://squadrone.in.ua/ua/p2322733857-motor-dlya-drona.html</url>
+<price>1100</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6225023234_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона BrotherHobby Avenger 2810-1180KV</name>
+<vendor>BrotherHobby</vendor>
+<vendorCode>Avenger 2810</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">2080</param>
+<param name="Вага (г)" unit="">45</param>
+<param name="KV" unit="">1180</param>
+<param name="Дріт AWG" unit="">18AWG</param>
+<param name="Напруга (V)" unit="">23.8</param>
+<param name="Максимальна потужність (Вт)" unit="">1030.95</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">43.5</param>
+<param name="Тяга" unit="">2339</param>
+<param name="Підшипники" unit="">NMB 12X6X4</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Статор" unit="">кремнієва сталь Kawasaki товщиною 0,2 мм</param>
+<param name="Вал" unit="">Гладкий вал</param>
+<param name="Монтажна схема" unit="">M3 (19X19мм)</param>
+<param name="Основний корпус та дзвін" unit="">Al 7075</param>
+<param name="Ротор: магніти" unit="">дугові магніти N52H</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+</offer>
+<offer id="2322733858" available="true">
+<url>https://squadrone.in.ua/ua/p2322733858-motor-brotherhobby-avenger.html</url>
+<price>1200</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6225023235_motor-brotherhobby-avenger.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор BrotherHobby Avenger 2806.5 1300kv</name>
+<vendor>BrotherHobby</vendor>
+<vendorCode>Avenger 2806.5</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Avenger 2806.5 1300kv</param>
+<param name="Вага (г)" unit="">47.59</param>
+<param name="KV" unit="">1300</param>
+<param name="Дріт AWG" unit="">160</param>
+<param name="Напруга (V)" unit="">22.2</param>
+<param name="Максимальна потужність (Вт)" unit="">1056.72</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">44.4</param>
+<param name="Гарантія, міс" unit="">24</param>
+</offer>
+<offer id="2322733860" available="true">
+<url>https://squadrone.in.ua/ua/p2322733860-motor-dlya-drona.html</url>
+<price>510</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6225023237_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6225023238_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6225023240_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6225023241_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона E-POWERRC X2810 900KV</name>
+<vendorCode>X2810</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">X2810</param>
+<param name="Вага (г)" unit="">64</param>
+<param name="KV" unit="">900KV</param>
+<param name="Дріт AWG" unit="">18AWG, 250mm</param>
+<param name="Напруга (V)" unit="">25</param>
+<param name="Максимальна потужність (Вт)" unit="">1095</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">43.8</param>
+<param name="ESC" unit="">6S 50A</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Ротор: магніти" unit="">N52H</param>
+</offer>
+<offer id="2330567431" available="true">
+<url>https://squadrone.in.ua/ua/p2330567431-antena-dlya-drona.html</url>
+<price>520</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487468</categoryId>
+<picture>https://images.prom.ua/6280491036_antena-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Антена для дрона Foxeer Lollipop 4 Plus High Quality 5.8GHz 2.6dBi SMA 150 mm RHCP (PA1474S)</name>
+<vendor>Foxeer</vendor>
+<vendorCode>PA1474S</vendorCode>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Длина" unit="мм">150</param>
+<param name="Діапазон частот (МГц)" unit="">5,75</param>
+<param name="Мoдель" unit="">Lollipop 4 Plus High Quality 5.8GHz 2.6dBi SMA 150mm RHCP</param>
+<param name="Поляризация" unit="">RHCP</param>
+<param name="Посилення (дБі)" unit="">2.6</param>
+<param name="Разъем" unit="">SMA</param>
+<param name="Состояние" unit="">Новое</param>
+</offer>
+<offer id="2330567434" available="true">
+<url>https://squadrone.in.ua/ua/p2330567434-antena-skyzone-mushroom.html</url>
+<price>435</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487468</categoryId>
+<picture>https://images.prom.ua/6242280583_antena-skyzone-mushroom.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Антена Skyzone Mushroom 5.8GHz 160mm SMA 3.8dBi RHCP</name>
+<vendor>Skyzone</vendor>
+<vendorCode>AT5G</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Діапазон частот (МГц)" unit="">5.8</param>
+<param name="Посилення (дБі)" unit="">3.8</param>
+<param name="Поляризация" unit="">RHCP</param>
+<param name="Длина" unit="мм">150</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2330567455" available="true">
+<url>https://squadrone.in.ua/ua/p2330567455-prijmach-tbs-crossfire.html</url>
+<price>1400</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487702</categoryId>
+<picture>https://images.prom.ua/6242280741_prijmach-rx-tbs.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Приймач (RX) TBS Crossfire Nano RX (Crossfire Nano)</name>
+<vendor>Crossfire</vendor>
+<vendorCode>Crossfire Nano</vendorCode>
+<param name="Антенний роз'єм" unit="">IPEX1</param>
+<param name="Вага (г)" unit="">0.5</param>
+<param name="Вихідна потужність телеметрії" unit="">16</param>
+<param name="Вхід VCC" unit="">5</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Мoдель" unit="">Crossfire Nano RX</param>
+<param name="Оновлення прошивки" unit="">V2.25</param>
+<param name="Протокол Rx To FC" unit="">CRSF</param>
+<param name="Розмір (мм)" unit="">11x18</param>
+<param name="Частота RF" unit="">915</param>
+<param name="Состояние" unit="">Новое</param>
+</offer>
+<offer id="2334427749" available="true">
+<url>https://squadrone.in.ua/ua/p2334427749-motor-dlya-drona.html</url>
+<price>950</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6248454373_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона Flashhobby A3115 900KV</name>
+<vendorCode>A3115</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">A3115 900KV</param>
+<param name="Вага (г)" unit="">113</param>
+<param name="KV" unit="">900</param>
+<param name="Напруга (V)" unit="">25</param>
+<param name="Максимальна потужність (Вт)" unit="">1592</param>
+<param name="Конфигурация" unit="">14P12N</param>
+<param name="Максимальний струм (А)" unit="">50</param>
+<param name="ESC" unit="">60A~80A</param>
+<param name="Підшипники" unit="">NSK-5x11x5</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Монтажна схема" unit="">19x19</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+</offer>
+<offer id="2334427750" available="true">
+<url>https://squadrone.in.ua/ua/p2334427750-antena-dlya-drona.html</url>
+<price>350</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487468</categoryId>
+<picture>https://images.prom.ua/6248454375_antena-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Aнтена для дрона Skуzone MMCX 90 5G RHCP 160 mm (AT5G MMCX)</name>
+<vendor>Skyzone</vendor>
+<vendorCode>AT5G MMCX</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Длина" unit="мм">160</param>
+<param name="VSWR (КСВ)" unit="">1.24</param>
+<param name="Вхідний опір (Ω)" unit="">50</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Діапазон частот (МГц)" unit="">5</param>
+<param name="Мoдель" unit="">MMCX90 5.8GHz RHCP</param>
+<param name="Поляризация" unit="">RHCP</param>
+<param name="Посилення (дБі)" unit="">3.8</param>
+<param name="Пропускна здатність (МГц)" unit="">5400</param>
+</offer>
+<offer id="2334427751" available="true">
+<url>https://squadrone.in.ua/ua/p2334427751-antena-rushfpv-cherry.html</url>
+<price>450</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487468</categoryId>
+<picture>https://images.prom.ua/6136620590_antena-rushfpv-cherry.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Антена RushFPV Cherry II 5.8G SMA RHCP 150mm (Cherry II)</name>
+<vendor>rushfpv</vendor>
+<vendorCode>Cherry II</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="VSWR (КСВ)" unit="">≤1.3 : 1</param>
+<param name="Вхідний опір (Ω)" unit="">50</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Длина" unit="мм">150</param>
+<param name="Діапазон частот (МГц)" unit="">5.8</param>
+<param name="Мoдель" unit="">Cherry II 5.8G SMA RHCP</param>
+<param name="Поляризация" unit="">RHCP/LHCP</param>
+<param name="Посилення (дБі)" unit="">1.8</param>
+<param name="Пропускна здатність (МГц)" unit="">400</param>
+<param name="Разъем" unit="">MMCX, SMA, UFL</param>
+</offer>
+<offer id="2334427755" available="true">
+<url>https://squadrone.in.ua/ua/p2334427755-motop-dlya-dpona.html</url>
+<price>800</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6248454381_motop-dlya-dpona.jpg</picture>
+<picture>https://images.prom.ua/6248454382_motop-dlya-dpona.jpg</picture>
+<picture>https://images.prom.ua/6248454383_motop-dlya-dpona.jpg</picture>
+<picture>https://images.prom.ua/6248454384_motop-dlya-dpona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мoтop для дpoнa Еmах ЕСО ІІ 2812 1100КV</name>
+<vendor>EMAX</vendor>
+<vendorCode>НФ-00050262</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">2812</param>
+<param name="Вага (г)" unit="">72</param>
+<param name="KV" unit="">1100</param>
+<param name="Дріт AWG" unit="">18AWG, 250 мм</param>
+<param name="Максимальна потужність (Вт)" unit="">1718</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">68.2</param>
+<param name="ESC" unit="">3-6S</param>
+<param name="Тяга" unit="">3060</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Монтажна схема" unit="">M3 19х19</param>
+<param name="Діаметр валу (мм)" unit="">M5</param>
+</offer>
+<offer id="2341956038" available="true">
+<url>https://squadrone.in.ua/ua/p2341956038-rama-dlya-drona.html</url>
+<price>358</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6259516704_rama-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рама для дрона camo текстоліт 7" (CAMO7)</name>
+<vendor>Camo</vendor>
+<vendorCode>CAMO7</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Бічні пластини (мм)" unit="">3</param>
+<param name="Вага (г)" unit="">15</param>
+<param name="Верхня пластина (мм)" unit="">2</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Количество лучей" unit="">4</param>
+<param name="Мoдель" unit="">CAMO7</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Нижня пластина (мм)" unit="">3</param>
+<param name="Розмір (дюйм)" unit="">7</param>
+<param name="Товщина променів (мм)" unit="">8</param>
+</offer>
+<offer id="2341956039" available="true">
+<url>https://squadrone.in.ua/ua/p2341956039-rama-dlya-drona.html</url>
+<price>409</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6259516704_rama-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рама для дрона camo текстоліт 8" (CAMO8)</name>
+<vendor>Camo</vendor>
+<vendorCode>CAMO8</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Бічні пластини (мм)" unit="">3</param>
+<param name="Вага (г)" unit="">15</param>
+<param name="Верхня пластина (мм)" unit="">2</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Количество лучей" unit="">4</param>
+<param name="Мoдель" unit="">CAMO8</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Нижня пластина (мм)" unit="">3</param>
+<param name="Розмір (дюйм)" unit="">8</param>
+<param name="Товщина променів (мм)" unit="">8</param>
+</offer>
+<offer id="2341956040" available="true">
+<url>https://squadrone.in.ua/ua/p2341956040-rama-dlya-drona.html</url>
+<price>512</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6259516704_rama-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рама для дрона camo текстоліт 10" (CAMO10)</name>
+<vendor>Camo</vendor>
+<vendorCode>CAMO10</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Бічні пластини (мм)" unit="">3</param>
+<param name="Вага (г)" unit="">15</param>
+<param name="Верхня пластина (мм)" unit="">2</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Количество лучей" unit="">4</param>
+<param name="Мoдель" unit="">CAMO10</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Нижня пластина (мм)" unit="">3</param>
+<param name="Розмір (дюйм)" unit="">8</param>
+<param name="Товщина променів (мм)" unit="">8</param>
+</offer>
+<offer id="2341956041" available="true">
+<url>https://squadrone.in.ua/ua/p2341956041-rama-dlya-kvadrokoptera.html</url>
+<price>890</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6259516708_rama-dlya-kvadrokoptera.jpg</picture>
+<picture>https://images.prom.ua/6259516709_rama-dlya-kvadrokoptera.jpg</picture>
+<picture>https://images.prom.ua/6259516711_rama-dlya-kvadrokoptera.jpg</picture>
+<picture>https://images.prom.ua/6259516713_rama-dlya-kvadrokoptera.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рама для квадрокоптера XL7 7"</name>
+<vendorCode>XL7</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2345822557" available="true">
+<url>https://squadrone.in.ua/ua/p2345822557-motor-dlya-drona.html</url>
+<price>650</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6265223298_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона SurpassHobby Bat S2807 1300KV (Bat S2807)</name>
+<vendorCode>Bat S2807</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Bat B2807</param>
+<param name="Вага (г)" unit="">58</param>
+<param name="KV" unit="">1300</param>
+<param name="Напруга (V)" unit="">6</param>
+<param name="Максимальна потужність (Вт)" unit="">1100</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">45</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Вал" unit="">M5</param>
+<param name="Монтажна схема" unit="">19X19</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+</offer>
+<offer id="2345822558" available="true">
+<url>https://squadrone.in.ua/ua/p2345822558-motor-dlya-drona.html</url>
+<price>610</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6265223301_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223302_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223304_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223305_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона SurpassHobby Bat S2806.5 1300KV (Bat B2806.5)</name>
+<vendorCode>Bat B2806.5</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Bat S2806.5</param>
+<param name="Вага (г)" unit="">55</param>
+<param name="KV" unit="">1300</param>
+<param name="Напруга (V)" unit="">6</param>
+<param name="Максимальна потужність (Вт)" unit="">1300</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">40</param>
+<param name="Підшипники" unit="">ABEC5</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Вал" unit="">M5</param>
+<param name="Монтажна схема" unit="">19X19</param>
+<param name="Діаметр валу (мм)" unit="">4</param>
+</offer>
+<offer id="2345822560" available="true">
+<url>https://squadrone.in.ua/ua/p2345822560-videoperedavach-foxeer-reaper.html</url>
+<price>5865</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487469</categoryId>
+<picture>https://images.prom.ua/6265223310_videoperedavach-foxeer-reaper.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Відеопередавач Foxeer Reaper Infinity 5.8G 5W 40CH (Reaper Infinity)</name>
+<vendor>Foxeer</vendor>
+<vendorCode>Reaper Infinity</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Reaper Infinity 5.8G 5W 40CH</param>
+<param name="Вага (г)" unit="">58</param>
+<param name="Розмір (мм)" unit="">41x20x17</param>
+<param name="Число каналов" unit="">40</param>
+<param name="Монтажна схема (мм)" unit="">20x20</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Антенний роз'єм" unit="">SMA</param>
+<param name="Вхідна напруга (В)" unit="">36</param>
+<param name="Частота (Гц)" unit="">5.8</param>
+<param name="Вихідна потужність (мВт)" unit="">5000</param>
+</offer>
+<offer id="2345822563" available="true">
+<url>https://squadrone.in.ua/ua/p2345822563-motor-dlya-drona.html</url>
+<price>875</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6265223314_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223316_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223318_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223322_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона SurpassHobby Bat S2812 900KV (Bat S2812)</name>
+<vendorCode>Bat S2812</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">S2812</param>
+<param name="Вага (г)" unit="">78</param>
+<param name="KV" unit="">900</param>
+<param name="Напруга (V)" unit="">6</param>
+<param name="Максимальна потужність (Вт)" unit="">1120</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">45</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2345822565" available="true">
+<url>https://squadrone.in.ua/ua/p2345822565-motor-dlya-drona.html</url>
+<price>750</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6265223298_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона SurpassHobby Bat S2808 1100KV (Bat S2808)</name>
+<vendorCode>Bat S2808</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">S2808</param>
+<param name="Вага (г)" unit="">55</param>
+<param name="KV" unit="">1100</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Монтажна схема" unit="">M3</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+</offer>
+<offer id="2345822566" available="true">
+<url>https://squadrone.in.ua/ua/p2345822566-karbonova-rama-dlya.html</url>
+<price>2990</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6265223386_karbonova-rama-dlya.jpg</picture>
+<picture>https://images.prom.ua/6265223388_karbonova-rama-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Карбонова рама для дрона Diatone KN-104 10"</name>
+<vendorCode>KN-104</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">615</param>
+<param name="Верхня пластина (мм)" unit="">2</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Количество лучей" unit="">4</param>
+<param name="Мoдель" unit="">KN-104 10"</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Нижня пластина (мм)" unit="">1.5</param>
+<param name="Розмір (дюйм)" unit="">10</param>
+<param name="Розмір під монтаж камери" unit="">19x19 M3</param>
+</offer>
+<offer id="2345822568" available="true">
+<url>https://squadrone.in.ua/ua/p2345822568-motor-dlya-drona.html</url>
+<price>850</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6265223389_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223392_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223394_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6265223396_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона SurpassHobby Bat S2810 980KV (Bat S2810)</name>
+<vendorCode>(Bat S2810</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">S2810</param>
+<param name="Вага (г)" unit="">70</param>
+<param name="KV" unit="">980</param>
+<param name="Максимальна потужність (Вт)" unit="">1110</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">46</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Монтажна схема" unit="">M3</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+</offer>
+<offer id="2345840752" available="true">
+<url>https://squadrone.in.ua/ua/p2345840752-kamera-fpv-runcam.html</url>
+<price>2650</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487471</categoryId>
+<picture>https://images.prom.ua/6020207761_kamera-fpv-runcam.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Камера FPV RunCam Night Eagle 3 Starlight night vision (HP0008.9971)</name>
+<vendor>RunCam</vendor>
+<vendorCode>HP0008.9971</vendorCode>
+<param name="Гарантийный срок" unit="мес">25</param>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Night Eagle 3 Starlight night vision</param>
+<param name="Вага (г)" unit="">8.5</param>
+<param name="Розміри (мм)" unit="">19х19</param>
+<param name="Входное напряжение" unit="">5–24</param>
+<param name="Угол обзора" unit="">125 °</param>
+<param name="Формат экрана" unit="">16:9 4:3</param>
+<param name="Затвор" unit="">Електронна витримка затвора</param>
+<param name="Горизонтальна роздільна здатність" unit="">1500 TVL</param>
+</offer>
+<offer id="2350140424" available="true">
+<url>https://squadrone.in.ua/ua/p2350140424-kamera-runcam-phoenix.html</url>
+<price>1100</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487471</categoryId>
+<picture>https://images.prom.ua/6269986684_kamera-runcam-phoenix.jpg</picture>
+<picture>https://images.prom.ua/6269986687_kamera-runcam-phoenix.jpg</picture>
+<picture>https://images.prom.ua/6269986688_kamera-runcam-phoenix.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Камера RunCam Phoenix 2 SP V3 (Phoenix2 SP V3)</name>
+<vendor>RunCam</vendor>
+<vendorCode>Phoenix2 SP V3</vendorCode>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Phoenix 2 SP V3</param>
+<param name="Вага (г)" unit="">7.5</param>
+<param name="Розміри (мм)" unit="">100x30x50</param>
+<param name="Входное напряжение" unit="">5</param>
+<param name="Угол обзора" unit="">FOV D:155° H:122° V:92°/FOV D:138° H:122° V:68°</param>
+<param name="Формат экрана" unit="">4:3/16:9</param>
+<param name="Лінза" unit="">1/2.8" Starlight CMOS</param>
+<param name="Потребление тока" unit="">220мА</param>
+<param name="Материал корпуса" unit="">ABS</param>
+<param name="Затвор" unit="">Rolling Shutter</param>
+<param name="Горизонтальна роздільна здатність" unit="">1500TVL</param>
+<param name="Режим День/Ніч" unit="">Кольровий/ЧБ</param>
+<param name="Чувствительность" unit="">15000мВ</param>
+<param name="Навігація за меню" unit="">Каельне</param>
+<param name="Mirror/Flip" unit="">є</param>
+<param name="ТБ вихід" unit="">NTSC/PAL</param>
+<param name="WDR" unit="">Global WDR</param>
+</offer>
+<offer id="2350140425" available="true">
+<url>https://squadrone.in.ua/ua/p2350140425-kamera-caddx-ratel.html</url>
+<price>1370</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487471</categoryId>
+<picture>https://images.prom.ua/6102474388_kamera-caddx-ratel.jpg</picture>
+<picture>https://images.prom.ua/6269986689_kamera-caddx-ratel.jpg</picture>
+<picture>https://images.prom.ua/6269986691_kamera-caddx-ratel.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Камера Caddx Ratel 2 Night</name>
+<vendorCode>MN01-3000B</vendorCode>
+<param name="Гарантийный срок" unit="мес">1</param>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">Ratel 2 Night</param>
+<param name="Вага (г)" unit="">5.9</param>
+<param name="Розміри (мм)" unit="">19x19x26.5</param>
+<param name="Входное напряжение" unit="">DC 5-40V</param>
+<param name="Формат экрана" unit="">16:9 / 4:3</param>
+<param name="Лінза" unit="">8Mega /F1.2</param>
+<param name="Затвор" unit="">PAL: 1/50 ~ 100 000; NTSC: 1/60 ~ 100000</param>
+<param name="Горизонтальна роздільна здатність" unit="">1500TVL</param>
+<param name="Режим День/Ніч" unit="">Авто / Колір / ЧБ / EXT</param>
+<param name="Чувствительность" unit="">Starlight, 0.0001LUX</param>
+<param name="ТБ вихід" unit="">NTSC & PAL</param>
+<param name="WDR" unit="">Super WDR</param>
+</offer>
+<offer id="2350140428" available="true">
+<url>https://squadrone.in.ua/ua/p2350140428-motor-dlya-drona.html</url>
+<price>1400</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6269986699_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6269986700_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6269986701_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6269986702_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона iFlight XING 2814 880KV</name>
+<vendor>iFlight</vendor>
+<vendorCode>XING 2814</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="KV" unit="">880</param>
+<param name="Вага (г)" unit="">88.3</param>
+<param name="Вал" unit="">Різьбовий</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Мoдель" unit="">2814</param>
+<param name="Максимальна потужність (Вт)" unit="">1221.6</param>
+<param name="Максимальний струм (А)" unit="">50.9</param>
+<param name="Напруга (V)" unit="">22.2</param>
+</offer>
+<offer id="2350140429" available="true">
+<url>https://squadrone.in.ua/ua/p2350140429-peredavach-happymodel-es900tx.html</url>
+<price>1700</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487702</categoryId>
+<picture>https://images.prom.ua/6269986703_peredavach-tx-happymodel.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Передавач (TX) HappyModel ES900TX ELRS 915MHz Micro TX (ES900TX)</name>
+<vendor>Happymodel</vendor>
+<vendorCode>ES900TX</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">ES900TX ELRS 915MHz Micro TX</param>
+<param name="Вага (г)" unit="">23</param>
+<param name="Розмір (мм)" unit="">55x39x11</param>
+<param name="RF чіп" unit="">SX1276IMLTRT</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Оновлення прошивки" unit="">ExpressLRS 3.2.0</param>
+<param name="Антенний роз'єм" unit="">SMA jack</param>
+<param name="Частота RF" unit="">915</param>
+<param name="Вхід VCC" unit="">13</param>
+<param name="Вихідна потужність телеметрії" unit="">30</param>
+<param name="Робочий струм" unit="">9</param>
+<param name="Процессор" unit="">ESP32 + ESP8285</param>
+</offer>
+<offer id="2350140434" available="true">
+<url>https://squadrone.in.ua/ua/p2350140434-politnij-stek-v3s.html</url>
+<price>1150</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487701</categoryId>
+<picture>https://images.prom.ua/6269987302_politnij-stek-f4.jpg</picture>
+<picture>https://images.prom.ua/6269987303_politnij-stek-f4.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Політний стек F4 V3S Plus</name>
+<vendorCode>F4 V3S Plus</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">F4 V3S Plus</param>
+<param name="Монтажні розміри" unit="">30.5x30.5</param>
+<param name="Розмір (мм)" unit="">36x36</param>
+<param name="IMU(Gyro)" unit="">MPU6500</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Прошивка ESC" unit="">Omnibus F4</param>
+<param name="Барометр" unit="">BMP280</param>
+</offer>
+<offer id="2350140435" available="true">
+<url>https://squadrone.in.ua/ua/p2350140435-politnij-stek-diatone.html</url>
+<price>2760</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487701</categoryId>
+<picture>https://images.prom.ua/6269987304_politnij-stek-diatone.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Політний стек Diatone Mamba F405V2-F55 128K</name>
+<vendor>Diatone</vendor>
+<vendorCode>F405V2-F55</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">F405V2-F55</param>
+<param name="Вага (г)" unit="">9</param>
+<param name="Розмір (мм)" unit="">36х18х8</param>
+<param name="OSD Chip" unit="">AT7456E</param>
+<param name="IMU(Gyro)" unit="">ICM-42688-P</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Прошивка ESC" unit="">BetaFlight</param>
+<param name="Target прошивки" unit="">FURYF4OSD</param>
+</offer>
+<offer id="2352312343" available="true">
+<url>https://squadrone.in.ua/ua/p2352312343-kvadrokopter-dji-mavic.html</url>
+<price>105989</price>
+<currencyId>UAH</currencyId>
+<categoryId>135475131</categoryId>
+<picture>https://images.prom.ua/6272780506_kvadrokopter-dji-mavic.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Квадрокоптер DJI Mavic 3E Enterprise (CP.EN.00000411.01)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.EN.00000411.01</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">915</param>
+<param name="Макс. Час польоту" unit="">45</param>
+<param name="Камера" unit="">Hasselblad L2D-20c</param>
+<param name="Частота управління" unit="">5.8</param>
+<param name="Грузоподъемность" unit="">12</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Скорость" unit="">75</param>
+<param name="Кількість пропелерів" unit="">4</param>
+<param name="Макс. Дальність польоту" unit="">32</param>
+<param name="Датчики" unit="">GPS-модуль</param>
+<param name="Пропелер" unit="">4</param>
+<param name="Частота передачі відео" unit="">5.8</param>
+</offer>
+<offer id="2352312344" available="true">
+<url>https://squadrone.in.ua/ua/p2352312344-batareya-dji-dlya.html</url>
+<price>13172</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6272780508_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780510_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780511_batareya-dji-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Батарея DJI для Matrice 30 Series TB30 (CP.EN.00000369.02)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.EN.00000369.02</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">685</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Загальна ємність (Вт/год)" unit="">131.6</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Ємність акумулятора (мА/год)" unit="">5880</param>
+<param name="Тип аккумулятора" unit="">LiNiMnCoO2</param>
+</offer>
+<offer id="2352312345" available="true">
+<url>https://squadrone.in.ua/ua/p2352312345-batareya-dji-dlya.html</url>
+<price>30216</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6272780512_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780513_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780514_batareya-dji-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Батарея DJI для Matrice 350/300 Series TB65 (CP.EN.00000457.01)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.EN.00000457.01</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Вага (г)" unit="">1350</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Загальна ємність (Вт/год)" unit="">263.2</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Ємність акумулятора (мА/год)" unit="">5880</param>
+</offer>
+<offer id="2352312346" available="true">
+<url>https://squadrone.in.ua/ua/p2352312346-batareya-dji-dlya.html</url>
+<price>7981</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6272780516_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780517_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780518_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780519_batareya-dji-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Батарея DJI для Mavic 3 (CP.MA.00000423.01)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.MA.00000423.01</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">370</param>
+<param name="Розміри (мм)" unit="">132х68,6х48,3</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Ємність акумулятора (мА/год)" unit="">5000</param>
+<param name="Тип аккумулятора" unit="">LiPo 4S</param>
+</offer>
+<offer id="2352312347" available="true">
+<url>https://squadrone.in.ua/ua/p2352312347-batareya-dji-dlya.html</url>
+<price>7538</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6272780520_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780517_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780518_batareya-dji-dlya.jpg</picture>
+<picture>https://images.prom.ua/6272780519_batareya-dji-dlya.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Батарея DJI для Mavic 3 OEM (CP.MA.00000423.01)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.MA.00000423.01</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">370</param>
+<param name="Розміри (мм)" unit="">132х68,6х48,3</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Ємність акумулятора (мА/год)" unit="">5000</param>
+<param name="Тип аккумулятора" unit="">LiPo 4S</param>
+</offer>
+<offer id="2352312348" available="true">
+<url>https://squadrone.in.ua/ua/p2352312348-kvadrokopter-dji-matrice.html</url>
+<price>170880</price>
+<currencyId>UAH</currencyId>
+<categoryId>135475131</categoryId>
+<picture>https://images.prom.ua/6272780521_kvadrokopter-dji-matrice.jpg</picture>
+<picture>https://images.prom.ua/6272780522_kvadrokopter-dji-matrice.jpg</picture>
+<picture>https://images.prom.ua/6272780526_kvadrokopter-dji-matrice.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Квадрокоптер DJI Matrice 30 Enterprise (CP.EN.0000367.01)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.EN.0000367.01</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Наличие видеокамеры">С видеокамерой</param>
+<param name="Вага (г)" unit="">3.77</param>
+<param name="Макс. Час польоту" unit="">41хв</param>
+<param name="Частота управління" unit="">2,400-2,4835 ГГц, 5,725-5,850 ГГц</param>
+<param name="Грузоподъемность" unit="">4</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Скорость" unit="">82,8</param>
+<param name="Кількість пропелерів" unit="">4</param>
+<param name="Макс. Дальність польоту" unit="">15</param>
+</offer>
+<offer id="2352312349" available="true">
+<url>https://squadrone.in.ua/ua/p2352312349-kvadrokopter-dji-matrice.html</url>
+<price>205488</price>
+<currencyId>UAH</currencyId>
+<categoryId>135475131</categoryId>
+<picture>https://images.prom.ua/6272780527_kvadrokopter-dji-matrice.jpg</picture>
+<picture>https://images.prom.ua/6272780528_kvadrokopter-dji-matrice.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Квадрокоптер DJI Matrice 30T (CP.EN.00000368.02)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.EN.00000368.02</vendorCode>
+<param name="Гарантийный срок" unit="мес">12</param>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">3.77</param>
+<param name="Макс. Час польоту" unit="">41хв</param>
+<param name="Частота управління" unit="">2,4 / 5,8</param>
+<param name="Грузоподъемность" unit="">6</param>
+<param name="Скорость" unit="">82,8</param>
+<param name="Кількість пропелерів" unit="">4</param>
+<param name="Макс. Дальність польоту" unit="">6</param>
+</offer>
+<offer id="2352312350" available="true">
+<url>https://squadrone.in.ua/ua/p2352312350-nabir-akumulyatoriv-zaryadnij.html</url>
+<price>21738</price>
+<currencyId>UAH</currencyId>
+<categoryId>132583859</categoryId>
+<picture>https://images.prom.ua/6272780529_nabir-akumulyatoriv-ta.jpg</picture>
+<picture>https://images.prom.ua/6272780530_nabir-akumulyatoriv-ta.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Набір акумуляторів та зарядний пристрій DJI Mavic 3 Enterprise (CP.EN.00000421.01)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.EN.00000421.01</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Вага (г)" unit="">355</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Назначение" unit="">Для квадрокоптерів</param>
+<param name="Ємність акумулятора (мА/год)" unit="">5000</param>
+<param name="Тип аккумулятора" unit="">LiPo 4S</param>
+</offer>
+<offer id="2352312351" available="true">
+<url>https://squadrone.in.ua/ua/p2352312351-kvadrokopter-dji-mavic.html</url>
+<price>78302</price>
+<currencyId>UAH</currencyId>
+<categoryId>135475131</categoryId>
+<picture>https://images.prom.ua/6272780772_kvadrokopter-dji-mavic.jpg</picture>
+<picture>https://images.prom.ua/6272780773_kvadrokopter-dji-mavic.jpg</picture>
+<picture>https://images.prom.ua/6272780774_kvadrokopter-dji-mavic.jpg</picture>
+<picture>https://images.prom.ua/6272780775_kvadrokopter-dji-mavic.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Квадрокоптер DJI Mavic 3 Pro with DJI RC (CP.MA.00000654.01, CP.MA.00000656.01)</name>
+<vendor>DJI</vendor>
+<vendorCode>CP.MA.00000654.01</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Наличие видеокамеры">С видеокамерой</param>
+<param name="Вага (г)" unit="">958</param>
+<param name="Макс. Час польоту" unit="">43хв</param>
+<param name="Частота управління" unit="">2.4; 5.8</param>
+<param name="Грузоподъемность" unit="">0,75 кг</param>
+<param name="Гарантія, міс" unit="">12</param>
+<param name="Скорость" unit="">75,6</param>
+<param name="Кількість пропелерів" unit="">4</param>
+<param name="Макс. Дальність польоту" unit="">6</param>
+</offer>
+<offer id="2354081626" available="true">
+<url>https://squadrone.in.ua/ua/p2354081626-motor-dlya-drona.html</url>
+<price>640</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6274568811_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона Axisflying AX3115 900KV (AX3115)</name>
+<vendor>Axisflying</vendor>
+<vendorCode>AX3115</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="KV" unit="">900</param>
+<param name="Вага (г)" unit="">111</param>
+<param name="Гарантія, міс" unit="">24</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Мoдель" unit="">AX3115</param>
+<param name="Максимальна потужність (Вт)" unit="">1617</param>
+<param name="Максимальний струм (А)" unit="">64.7</param>
+<param name="Монтажна схема" unit="">19x19</param>
+<param name="Напруга (V)" unit="">12</param>
+</offer>
+<offer id="2357787920" available="true">
+<url>https://squadrone.in.ua/ua/p2357787920-rama-dlya-drona.html</url>
+<price>1000</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487700</categoryId>
+<picture>https://images.prom.ua/6020207024_rama-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Рама для дрона Mark4 8"</name>
+<vendorCode>Mark4 8"</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Материал" unit="">Карбонова</param>
+<param name="Мoдель" unit="">Mark4 5" 225мм</param>
+<param name="Вага (г)" unit="">102</param>
+<param name="Товщина променів (мм)" unit="">5</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Количество лучей" unit="">4</param>
+<param name="Розмір під монтаж камери" unit="">19.3</param>
+<param name="Нижня пластина (мм)" unit="">2.5</param>
+<param name="Верхня пластина (мм)" unit="">2.5</param>
+<param name="Бічні пластини (мм)" unit="">2.5</param>
+</offer>
+<offer id="2357787921" available="true">
+<url>https://squadrone.in.ua/ua/p2357787921-motor-dlya-drona.html</url>
+<price>680</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6280682973_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6280682974_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6280682975_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6280682976_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона FlashHobby M2807 1300KV</name>
+<vendorCode>M2807</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">M2807</param>
+<param name="Вага (г)" unit="">56.5</param>
+<param name="KV" unit="">1300</param>
+<param name="Напруга (V)" unit="">25</param>
+<param name="Максимальна потужність (Вт)" unit="">1153</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">46</param>
+<param name="Тяга" unit="">2238</param>
+<param name="Гарантія, міс" unit="">1</param>
+</offer>
+<offer id="2357787922" available="true">
+<url>https://squadrone.in.ua/ua/p2357787922-motor-dlya-drona.html</url>
+<price>840</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6280682977_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона Brotherhobby SE 2812 900kv</name>
+<vendor>BrotherHobby</vendor>
+<vendorCode>SE 2812</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">SE 2812</param>
+<param name="Вага (г)" unit="">76</param>
+<param name="KV" unit="">900</param>
+<param name="Дріт AWG" unit="">18AWG, 300мм</param>
+<param name="Напруга (V)" unit="">23.8</param>
+<param name="Максимальна потужність (Вт)" unit="">804</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">33.8</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Монтажна схема" unit="">19х19 мм</param>
+<param name="Діаметр валу (мм)" unit="">5</param>
+</offer>
+<offer id="2357787923" available="true">
+<url>https://squadrone.in.ua/ua/p2357787923-motor-dlya-drona.html</url>
+<price>680</price>
+<currencyId>UAH</currencyId>
+<categoryId>131487480</categoryId>
+<picture>https://images.prom.ua/6280682978_motor-dlya-drona.jpg</picture>
+<picture>https://images.prom.ua/6280682979_motor-dlya-drona.jpg</picture>
+<pickup>false</pickup>
+<delivery>true</delivery>
+<name>Мотор для дрона Brotherhobby SE 2807 1300kv</name>
+<vendor>BrotherHobby</vendor>
+<vendorCode>SE 2807</vendorCode>
+<param name="Состояние">Новое</param>
+<param name="Мoдель" unit="">SE 2807</param>
+<param name="Вага (г)" unit="">48</param>
+<param name="KV" unit="">1300</param>
+<param name="Дріт AWG" unit="">18AWG, 200мм</param>
+<param name="Напруга (V)" unit="">23.7</param>
+<param name="Максимальна потужність (Вт)" unit="">1000</param>
+<param name="Конфигурация" unit="">12N14P</param>
+<param name="Максимальний струм (А)" unit="">42.2</param>
+<param name="Тяга" unit="">2538</param>
+<param name="Підшипники" unit="">Japanese NMB 12X6X4</param>
+<param name="Гарантія, міс" unit="">1</param>
+<param name="Вал" unit="">SUS420</param>
+<param name="Монтажна схема" unit="">M3 (19X19мм)</param>
+<param name="Основний корпус та дзвін" unit="">Al 7075</param>
+<param name="Ротор: магніти" unit="">N52H</param>
 </offer>
 </offers>
 </shop>
