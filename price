@@ -261,7 +261,7 @@
 <param name="Материал корпуса" unit="">Магниво-алюмінівій сплав</param>
 <param name="Горизонтальна роздільна здатність" unit="">1200TVL</param>
 <param name="Режим День/Ніч" unit="">Авто / Колір / ЧБ / EXT</param>
-<param name="ТБ вихід" unit="">NTSC & PAL</param>
+<param name="ТБ вихід" unit="">NTSC &amp PAL</param>
 <param name="WDR" unit="">Super WDR (HDR)</param>
 <param name="Гарантийный срок" unit="міс">24</param>
 </offer>
@@ -1796,7 +1796,7 @@
 <param name="Горизонтальна роздільна здатність" unit="">1500TVL</param>
 <param name="Режим День/Ніч" unit="">Авто / Колір / ЧБ / EXT</param>
 <param name="Чувствительность" unit="">Starlight, 0.0001LUX</param>
-<param name="ТБ вихід" unit="">NTSC & PAL</param>
+<param name="ТБ вихід" unit="">NTSC &amp PAL</param>
 <param name="WDR" unit="">Super WDR</param>
 </offer>
 <offer id="2350140428" available="true">
