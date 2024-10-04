@@ -116,35 +116,6 @@
 <param name="Тяга" unit="">3960</param>
 <param name="Гарантія, міс" unit="">1</param>
 </offer>
-<offer id="2276631197" available="true">
-<url>https://squadrone.in.ua/ua/p2276631197-akb-molicel-6s2p.html</url>
-<price>3420</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6057206780_akb-molicel-6s2p.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ Molicel 6s2p 8400mAh</name>
-<vendor>Molicel</vendor>
-<vendorCode>INR21700-P42A</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Вага (г)" unit="">570</param>
-<param name="Розміри (мм)" unit="">145x45x45</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Загальна ємність (Вт/год)" unit="">124</param>
-<param name="Назначение" unit="">Для квадрокоптерів</param>
-<param name="Тип збірки" unit="">6S2P</param>
-<param name="Температурний діапазон заряду" unit="">0 / +45</param>
-<param name="Номинальное напряжение, В" unit="В">14.8</param>
-<param name="Струм віддачі (А)" unit="">90</param>
-<param name="Рекомендований струм зарядки (А)" unit="">8</param>
-<param name="Температурний діапазон розряду" unit="">- 40 / +60</param>
-<param name="Ємність акумулятора (мА/год)" unit="">8400</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">10</param>
-<param name="Гарантийный срок" unit="міс">1</param>
-</offer>
 <offer id="2280350469" available="true">
 <url>https://squadrone.in.ua/ua/p2280350469-rama-dlya-kvadrokoptera.html</url>
 <price>775</price>
@@ -515,8 +486,8 @@
 <picture>https://images.prom.ua/6192341394_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Molicel INR21700 P42A 6s2p (горизонтальна) 8400mAh 90A</name>
-<vendor>Molicel</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Molicel INR21700 P42A 6s2p (горизонтальна) 8400mAh 90A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700 P42A</vendorCode>
 <param name="Гарантийный срок" unit="мес">1</param>
 <param name="Состояние">Новое</param>
@@ -540,8 +511,8 @@
 <picture>https://images.prom.ua/6192341396_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Samsung INR21700-40T SDI 6s2p (горизонтальна) 8000mAh 90A</name>
-<vendor>Samsung</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Samsung INR21700-40T SDI 6s2p (горизонтальна) 8000mAh 90A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-40T SDI</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -565,8 +536,8 @@
 <picture>https://images.prom.ua/6192341398_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Tenpower INR21700-40TG 6s2p (горизонтальна) 8000mAh 70A</name>
-<vendor>TenPower</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Tenpower INR21700-40TG 6s2p (горизонтальна) 8000mAh 70A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-40TG</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -590,8 +561,8 @@
 <picture>https://images.prom.ua/6192341400_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Molicel INR21700 P42A 6s2p (вертикальна) 8400mAh 90A</name>
-<vendor>Molicel</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Molicel INR21700 P42A 6s2p (вертикальна) 8400mAh 90A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700 P42A</vendorCode>
 <param name="Гарантийный срок" unit="мес">1</param>
 <param name="Состояние">Новое</param>
@@ -615,8 +586,8 @@
 <picture>https://images.prom.ua/6192341402_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Samsung INR21700-40T SDI 6s2p (вертикальна) 8000 mAh 90A</name>
-<vendor>Samsung</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Samsung INR21700-40T SDI 6s2p (вертикальна) 8000 mAh 90A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-40T SDI</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -640,8 +611,8 @@
 <picture>https://images.prom.ua/6204983872_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Tenpower INR21700-40TG 6s2p (вертикальна) 8000 mAh 70A</name>
-<vendor>TenPower</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Tenpower INR21700-40TG 6s2p (вертикальна) 8000 mAh 70A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-40TG</vendorCode>
 <param name="Тип аккумулятора">Li-Ion</param>
 <param name="Состояние">Новое</param>
@@ -665,8 +636,8 @@
 <picture>https://images.prom.ua/6192341404_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Samsung INR21700-50S 6s2p (вертикальна) 10000mAh 90A</name>
-<vendor>Samsung</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Samsung INR21700-50S 6s2p (вертикальна) 10000mAh 90A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-50S</vendorCode>
 <param name="Гарантийный срок" unit="мес">1</param>
 <param name="Разъемы">XT60</param>
@@ -690,8 +661,8 @@
 <picture>https://images.prom.ua/6192341406_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Molicel INR21700 P42A 6s3p (вертикальна) 12600mAh 135A</name>
-<vendor>Molicel</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Molicel INR21700 P42A 6s3p (вертикальна) 12600mAh 135A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700 P42A</vendorCode>
 <param name="Гарантийный срок" unit="мес">1</param>
 <param name="Состояние">Новое</param>
@@ -715,8 +686,8 @@
 <picture>https://images.prom.ua/6192341409_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Samsung INR21700-40T SDI 6s3p (вертикальна) 12000 mAh 135A</name>
-<vendor>Samsung</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Samsung INR21700-40T SDI 6s3p (вертикальна) 12000 mAh 135A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-40T</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -740,8 +711,8 @@
 <picture>https://images.prom.ua/6192341587_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Samsung INR21700-50S 6s3p (вертикальна) 15000mAh 135A</name>
-<vendor>Samsung</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Samsung INR21700-50S 6s3p (вертикальна) 15000mAh 135A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-50S</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -765,8 +736,8 @@
 <picture>https://images.prom.ua/6192341588_akb-dlya-drona.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
-<name>АКБ для дрона Tenpower INR21700-40TG 6s3p (вертикальна) 12000 mAh 105A</name>
-<vendor>TenPower</vendor>
+<name>АКБ для дрона ПромАвтоматика Вінниця Tenpower INR21700-40TG 6s3p (вертикальна) 12000 mAh 105A</name>
+<vendor>ПромАвтоматика Вінниця</vendor>
 <vendorCode>INR21700-40TG</vendorCode>
 <param name="Состояние">Новое</param>
 <param name="Тип аккумулятора">Li-Ion</param>
@@ -830,382 +801,6 @@
 <param name="Прошивка ESC" unit="">AM32</param>
 <param name="Барометр" unit="">BMP280</param>
 <param name="Підтримка акумуляторів" unit="">4s-6s</param>
-</offer>
-<offer id="2317605658" available="true">
-<url>https://squadrone.in.ua/ua/p2317605658-akb-dlya-drona.html</url>
-<price>1900</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828058_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Molicel 21700 6s1p 4200mAh віддача 45/90A</name>
-<vendor>Molicel</vendor>
-<vendorCode>НФ-00050207</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">4200</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">22.2</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Рекомендований струм зарядки (А)" unit="">90</param>
-<param name="Розміри (мм)" unit="">65x72x43</param>
-<param name="Струм віддачі (А)" unit="">45</param>
-<param name="Тип збірки" unit="">6s1p</param>
-</offer>
-<offer id="2317605659" available="true">
-<url>https://squadrone.in.ua/ua/p2317605659-akb-dlya-drona.html</url>
-<price>3400</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204880829_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Molicel 21700 6s2p 8400mAh віддача 90/180A</name>
-<vendor>Molicel</vendor>
-<vendorCode>НФ-00050208</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Вага (г)" unit="">0.85</param>
-<param name="Розміри (мм)" unit="">130x72x43</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Тип збірки" unit="">6s2p</param>
-<param name="Номинальное напряжение, В" unit="В">22.2</param>
-<param name="Струм віддачі (А)" unit="">90</param>
-<param name="Рекомендований струм зарядки (А)" unit="">180</param>
-<param name="Ємність акумулятора (мА/год)" unit="">8400</param>
-</offer>
-<offer id="2317605660" available="true">
-<url>https://squadrone.in.ua/ua/p2317605660-akb-dlya-drona.html</url>
-<price>5000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828059_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Molicel 21700 6s3p 12600mAh віддача 125/270A</name>
-<vendor>Molicel</vendor>
-<vendorCode>НФ-00050209</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">12600</param>
-<param name="Вага (г)" unit="">1.32</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">22.2</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Рекомендований струм зарядки (А)" unit="">270</param>
-<param name="Розміри (мм)" unit="">130x72x64.5</param>
-<param name="Струм віддачі (А)" unit="">125</param>
-<param name="Тип збірки" unit="">6s3p</param>
-</offer>
-<offer id="2317605661" available="true">
-<url>https://squadrone.in.ua/ua/p2317605661-akb-dlya-drona.html</url>
-<price>1500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828060_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sоnу Murаtа VTC6A 21700 6s1p 3950mAh віддача 35/45A</name>
-<vendor>Sony</vendor>
-<vendorCode>НФ-00050210</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">3950</param>
-<param name="Вага (г)" unit="">420</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Максимальна напруга (В)" unit="">15</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Рекомендований струм зарядки (А)" unit="">45</param>
-<param name="Розміри (мм)" unit="">65x43x75</param>
-<param name="Струм віддачі (А)" unit="">35</param>
-<param name="Тип збірки" unit="">6s1p</param>
-</offer>
-<offer id="2317605662" available="true">
-<url>https://squadrone.in.ua/ua/p2317605662-akb-dlya-drona.html</url>
-<price>2800</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828061_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sоnу Murаtа VTC6A 21700 6s2p 7900mAh віддача 70/90A</name>
-<vendor>Sony</vendor>
-<vendorCode>НФ-00050211</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">7900</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Рекомендований струм зарядки (А)" unit="">90</param>
-<param name="Розміри (мм)" unit="">130x43x75</param>
-<param name="Струм віддачі (А)" unit="">70</param>
-<param name="Тип збірки" unit="">6s2p</param>
-</offer>
-<offer id="2317605663" available="true">
-<url>https://squadrone.in.ua/ua/p2317605663-akb-dlya-drona.html</url>
-<price>4100</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204892479_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sоnу Murаtа VTC6A 21700 6s3p 11850mAh віддача 105/135A</name>
-<vendor>Sony</vendor>
-<vendorCode>НФ-00050212</vendorCode>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Состояние" unit="">Б/В</param>
-<param name="Вага (г)" unit="">1300</param>
-<param name="Розміри (мм)" unit="">130x67x75</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Тип збірки" unit="">6s3p</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Струм віддачі (А)" unit="">105</param>
-<param name="Рекомендований струм зарядки (А)" unit="">135</param>
-<param name="Ємність акумулятора (мА/год)" unit="">11850</param>
-<param name="Максимальна напруга (В)" unit="">15</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-</offer>
-<offer id="2317605664" available="true">
-<url>https://squadrone.in.ua/ua/p2317605664-akb-dlya-drona.html</url>
-<price>2000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204893973_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sаmsung 50s 21700 6s1p 5000mAh віддача 35/50A</name>
-<vendor>Samsung</vendor>
-<vendorCode>НФ-00050213</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Вага (г)" unit="">420</param>
-<param name="Розміри (мм)" unit="">65x43x75</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Тип збірки" unit="">6s1p</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Струм віддачі (А)" unit="">35</param>
-<param name="Рекомендований струм зарядки (А)" unit="">50</param>
-<param name="Ємність акумулятора (мА/год)" unit="">5000</param>
-<param name="Максимальна напруга (В)" unit="">15</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-</offer>
-<offer id="2317605665" available="true">
-<url>https://squadrone.in.ua/ua/p2317605665-akb-dlya-drona.html</url>
-<price>4000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828062_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sаmsung 50s 21700 6s2p 10000mAh віддача 70/100A</name>
-<vendor>Samsung</vendor>
-<vendorCode>НФ-00050214</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">10000</param>
-<param name="Вага (г)" unit="">890</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Максимальна напруга (В)" unit="">16.2</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">22.2</param>
-<param name="Разъемы" unit="">JST-XH</param>
-<param name="Рекомендований струм зарядки (А)" unit="">100</param>
-<param name="Розміри (мм)" unit="">130x75x43</param>
-<param name="Струм віддачі (А)" unit="">70</param>
-<param name="Тип збірки" unit="">6s2p</param>
-</offer>
-<offer id="2317605666" available="true">
-<url>https://squadrone.in.ua/ua/p2317605666-akb-dlya-drona.html</url>
-<price>6100</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204984575_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Samsung 50s 21700 6s3p 15000 mAh</name>
-<vendor>Samsung</vendor>
-<vendorCode>НФ-00050215</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Вага (г)" unit="">1400</param>
-<param name="Розміри (мм)" unit="">130х75х65</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Тип збірки" unit="">6s3p</param>
-<param name="Номинальное напряжение, В" unit="В">22.2</param>
-<param name="Струм віддачі (А)" unit="">6</param>
-<param name="Рекомендований струм зарядки (А)" unit="">2</param>
-<param name="Ємність акумулятора (мА/год)" unit="">15000</param>
-<param name="Максимальна напруга (В)" unit="">4.2</param>
-<param name="Мінімальна напруга (В)" unit="">2.5</param>
-</offer>
-<offer id="2317605667" available="true">
-<url>https://squadrone.in.ua/ua/p2317605667-akb-dlya-drona.html</url>
-<price>1600</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828298_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sunpower 21700 6s1p 4000mAh віддача 40/80А</name>
-<vendor>SunPower</vendor>
-<vendorCode>НФ-00050216</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">4000</param>
-<param name="Вага (г)" unit="">460</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Рекомендований струм зарядки (А)" unit="">80</param>
-<param name="Розміри (мм)" unit="">65x42x75</param>
-<param name="Струм віддачі (А)" unit="">40</param>
-<param name="Тип збірки" unit="">6s1p</param>
-</offer>
-<offer id="2317605668" available="true">
-<url>https://squadrone.in.ua/ua/p2317605668-akb-dlya-drona.html</url>
-<price>3000</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204895021_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sunpower 21700 6s2p 8000mAh віддача 80/160А</name>
-<vendor>SunPower</vendor>
-<vendorCode>НФ-00050217</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Вага (г)" unit="">0.87</param>
-<param name="Розміри (мм)" unit="">128х72х44</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Тип збірки" unit="">6s2p</param>
-<param name="Номинальное напряжение, В" unit="В">22.2</param>
-<param name="Струм віддачі (А)" unit="">80</param>
-<param name="Рекомендований струм зарядки (А)" unit="">160</param>
-<param name="Ємність акумулятора (мА/год)" unit="">8000</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-</offer>
-<offer id="2317605669" available="true">
-<url>https://squadrone.in.ua/ua/p2317605669-akb-dlya-drona.html</url>
-<price>4100</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828299_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Sunpower 21700 6s3p 12000mAh віддача 120А</name>
-<vendor>SunPower</vendor>
-<vendorCode>НФ-00050218</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">12000</param>
-<param name="Вага (г)" unit="">1300</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Розміри (мм)" unit="">130x65x75</param>
-<param name="Струм віддачі (А)" unit="">120</param>
-<param name="Тип збірки" unit="">6s3p</param>
-</offer>
-<offer id="2317605670" available="true">
-<url>https://squadrone.in.ua/ua/p2317605670-akb-dlya-drona.html</url>
-<price>1500</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204895339_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Lishen 21700 6s1p 3950mAh віддача 40/80А</name>
-<vendorCode>НФ-00050219</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Вага (г)" unit="">460</param>
-<param name="Розміри (мм)" unit="">65x42x75</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Тип збірки" unit="">6s1p</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Струм віддачі (А)" unit="">40</param>
-<param name="Рекомендований струм зарядки (А)" unit="">80</param>
-<param name="Ємність акумулятора (мА/год)" unit="">3950</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-</offer>
-<offer id="2317605671" available="true">
-<url>https://squadrone.in.ua/ua/p2317605671-akb-dlya-drona.html</url>
-<price>2800</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828300_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Lishen 21700 6s2p 7900mAh віддача 80/160А</name>
-<vendorCode>НФ-00050220</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">7900</param>
-<param name="Вага (г)" unit="">900</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Рекомендований струм зарядки (А)" unit="">160</param>
-<param name="Розміри (мм)" unit="">130x43x75</param>
-<param name="Струм віддачі (А)" unit="">80</param>
-<param name="Тип збірки" unit="">6s2p</param>
-</offer>
-<offer id="2317605672" available="true">
-<url>https://squadrone.in.ua/ua/p2317605672-akb-dlya-drona.html</url>
-<price>3900</price>
-<currencyId>UAH</currencyId>
-<categoryId>132583859</categoryId>
-<picture>https://images.prom.ua/6204828301_akb-dlya-drona.jpg</picture>
-<pickup>false</pickup>
-<delivery>true</delivery>
-<name>АКБ для дрона Lishen 21700 6s3p 11850mAh віддача 120А</name>
-<vendorCode>НФ-00050221</vendorCode>
-<param name="Состояние">Новое</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Ємність акумулятора (мА/год)" unit="">11850</param>
-<param name="Вага (г)" unit="">1300</param>
-<param name="Гарантийный срок" unit="міс">24</param>
-<param name="Максимальна напруга (В)" unit="">16.8</param>
-<param name="Мінімальна напруга (В)" unit="">25.2</param>
-<param name="Назначение" unit="">Для авіамоделей</param>
-<param name="Номинальное напряжение, В" unit="В">21.6</param>
-<param name="Разъемы" unit="">XT60</param>
-<param name="Розміри (мм)" unit="">130x65x75</param>
-<param name="Струм віддачі (А)" unit="">120</param>
-<param name="Тип збірки" unit="">6s3p</param>
 </offer>
 <offer id="2317605678" available="true">
 <url>https://squadrone.in.ua/ua/p2317605678-sistema-skidu-fpv.html</url>
