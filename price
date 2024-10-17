@@ -207,7 +207,7 @@
 <param name="Потребление тока" unit="">5-40</param>
 <param name="Режим День/Ніч" unit="">Авто / Колір / ЧБ / EXT</param>
 <param name="Розміри (мм)" unit="">19x19x20</param>
-<param name="ТБ вихід" unit="">NTSC & PAL</param>
+<param name="ТБ вихід" unit="">NTSC &amp; PAL</param>
 <param name="Формат экрана" unit="">16:9 / 4:3</param>
 </offer>
 <offer id="2289400998" available="true">
@@ -1248,7 +1248,7 @@
 <param name="Горизонтальна роздільна здатність" unit="">1500TVL</param>
 <param name="Режим День/Ніч" unit="">Авто / Колір / ЧБ / EXT</param>
 <param name="Чувствительность" unit="">Starlight, 0.0001LUX</param>
-<param name="ТБ вихід" unit="">NTSC & PAL</param>
+<param name="ТБ вихід" unit="">NTSC &amp; PAL</param>
 <param name="WDR" unit="">Super WDR</param>
 </offer>
 <offer id="2350140428" available="true">
@@ -1622,7 +1622,7 @@
 <param name="Гарантія, міс" unit="">1</param>
 <param name="Затвор" unit="">PAL 1/25 ~ 1/10000 сек; NTSC 1/30 ~ 1/10000 сек</param>
 <param name="Горизонтальна роздільна здатність" unit="">1200</param>
-<param name="Режим День/Ніч" unit="">EXT/Auto/Color/B&W</param>
+<param name="Режим День/Ніч" unit="">EXT/Auto/Color/B&amp;W</param>
 <param name="ТБ вихід" unit="">CVBS</param>
 <param name="WDR" unit="">100dB</param>
 </offer>
